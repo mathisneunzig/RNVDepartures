@@ -1,0 +1,4572 @@
+{
+  "stations": [
+    {
+      "name": "Abendakademie",
+      "hafasID": "2447"
+    },
+    {
+      "name": "Abteistraße",
+      "hafasID": "2043"
+    },
+    {
+      "name": "Abzw. Bärsbach",
+      "hafasID": "1442"
+    },
+    {
+      "name": "Abzweig Klinge",
+      "hafasID": "3440"
+    },
+    {
+      "name": "Achtmorgenstraße",
+      "hafasID": "2124"
+    },
+    {
+      "name": "Adlerüberfahrt",
+      "hafasID": "1280"
+    },
+    {
+      "name": "Adolf-Damaschke-Ring",
+      "hafasID": "2311"
+    },
+    {
+      "name": "Adolf-Diesterweg-Straße",
+      "hafasID": "7142"
+    },
+    {
+      "name": "Adolf-Kolping-Straße",
+      "hafasID": "2146"
+    },
+    {
+      "name": "Agnesistraße",
+      "hafasID": "1204"
+    },
+    {
+      "name": "Ahornstraße",
+      "hafasID": "628"
+    },
+    {
+      "name": "Airfield",
+      "hafasID": "1358"
+    },
+    {
+      "name": "Akademiestraße",
+      "hafasID": "6005"
+    },
+    {
+      "name": "Albert-Fritz-Straße",
+      "hafasID": "1200"
+    },
+    {
+      "name": "Albert-Haueisen-Ring",
+      "hafasID": "2255"
+    },
+    {
+      "name": "Alemannenstraße",
+      "hafasID": "2632"
+    },
+    {
+      "name": "Alfred-Jost-Straße",
+      "hafasID": "1201"
+    },
+    {
+      "name": "Alois-Link-Platz",
+      "hafasID": "1138"
+    },
+    {
+      "name": "Alsenweg",
+      "hafasID": "2611"
+    },
+    {
+      "name": "Alte Brücke",
+      "hafasID": "1139"
+    },
+    {
+      "name": "Alte Brücke Nord",
+      "hafasID": "1223"
+    },
+    {
+      "name": "Alte Feuerwache",
+      "hafasID": "5548"
+    },
+    {
+      "name": "Alte Wendestelle",
+      "hafasID": "1436"
+    },
+    {
+      "name": "Alteichwaldsiedlung",
+      "hafasID": "2326"
+    },
+    {
+      "name": "Altenbach Ost",
+      "hafasID": "3471"
+    },
+    {
+      "name": "Altenbach Rathaus",
+      "hafasID": "3472"
+    },
+    {
+      "name": "Altenbach Röschbach",
+      "hafasID": "3473"
+    },
+    {
+      "name": "Altenbach Siedlung",
+      "hafasID": "3474"
+    },
+    {
+      "name": "Alter Kohlhof",
+      "hafasID": "1140"
+    },
+    {
+      "name": "Altes Hallenbad",
+      "hafasID": "1196"
+    },
+    {
+      "name": "Altrheinstraße",
+      "hafasID": "2612"
+    },
+    {
+      "name": "Am Aubuckel",
+      "hafasID": "2312"
+    },
+    {
+      "name": "Am Bächenbuckel",
+      "hafasID": "1108"
+    },
+    {
+      "name": "Am Friedrichsplatz",
+      "hafasID": "2395"
+    },
+    {
+      "name": "Am Götzenberg",
+      "hafasID": "1120"
+    },
+    {
+      "name": "Am Grünen Hag",
+      "hafasID": "1562"
+    },
+    {
+      "name": "Am Herrschaftswald",
+      "hafasID": "2613"
+    },
+    {
+      "name": "Am Herrschaftsweiher",
+      "hafasID": "2230"
+    },
+    {
+      "name": "Am Hüttengraben",
+      "hafasID": "2201"
+    },
+    {
+      "name": "Am Kandelbach",
+      "hafasID": "1739"
+    },
+    {
+      "name": "Am Kuhbuckel",
+      "hafasID": "2353"
+    },
+    {
+      "name": "Am Müllenberg",
+      "hafasID": "3033"
+    },
+    {
+      "name": "Am Oberen Luisenpark",
+      "hafasID": "2393"
+    },
+    {
+      "name": "Am Rheinauer See",
+      "hafasID": "2323"
+    },
+    {
+      "name": "Am Rosenbusch",
+      "hafasID": "1281"
+    },
+    {
+      "name": "Am Salzkai",
+      "hafasID": "6080"
+    },
+    {
+      "name": "Am Sandloch",
+      "hafasID": "6806"
+    },
+    {
+      "name": "Am Schäferstock",
+      "hafasID": "2514"
+    },
+    {
+      "name": "Am Schwanen",
+      "hafasID": "2125"
+    },
+    {
+      "name": "Am Sportplatz",
+      "hafasID": "2206"
+    },
+    {
+      "name": "Am Weidenschlag",
+      "hafasID": "2147"
+    },
+    {
+      "name": "Am Zapfenberg",
+      "hafasID": "6825"
+    },
+    {
+      "name": "Ammoniakstraße",
+      "hafasID": "2053"
+    },
+    {
+      "name": "Amorbacher Straße",
+      "hafasID": "2633"
+    },
+    {
+      "name": "Amselstraße",
+      "hafasID": "2382"
+    },
+    {
+      "name": "Amtsgericht",
+      "hafasID": "2113"
+    },
+    {
+      "name": "Andreas-Hofer-Straße",
+      "hafasID": "2313"
+    },
+    {
+      "name": "Anglerstraße",
+      "hafasID": "2021"
+    },
+    {
+      "name": "Anna-Sammet-Straße",
+      "hafasID": "3950"
+    },
+    {
+      "name": "Antwerpener Straße",
+      "hafasID": "5558"
+    },
+    {
+      "name": "Apostelkirche",
+      "hafasID": "3012"
+    },
+    {
+      "name": "Arbeitstherapeutische Werkstätte",
+      "hafasID": "5551"
+    },
+    {
+      "name": "Ärztehaus",
+      "hafasID": "1563"
+    },
+    {
+      "name": "Assenheim Bundesstr.",
+      "hafasID": "1605"
+    },
+    {
+      "name": "Auf den Ried",
+      "hafasID": "2667"
+    },
+    {
+      "name": "August-Bebel-Straße",
+      "hafasID": "2480"
+    },
+    {
+      "name": "Augustinum",
+      "hafasID": "1332"
+    },
+    {
+      "name": "Ausgasse",
+      "hafasID": "2484"
+    },
+    {
+      "name": "Äußere Wingertstraße",
+      "hafasID": "2355"
+    },
+    {
+      "name": "Auweg",
+      "hafasID": "1348"
+    },
+    {
+      "name": "Bachlenz",
+      "hafasID": "6405"
+    },
+    {
+      "name": "Bäckerweg",
+      "hafasID": "2454"
+    },
+    {
+      "name": "Bad Dürkheim Bahnhof",
+      "hafasID": "116"
+    },
+    {
+      "name": "Bad Dürkheim Ost",
+      "hafasID": "134"
+    },
+    {
+      "name": "Baden-Badener Straße",
+      "hafasID": "1262"
+    },
+    {
+      "name": "Bahofweg",
+      "hafasID": "6410"
+    },
+    {
+      "name": "Bärenbach Nord",
+      "hafasID": "1086"
+    },
+    {
+      "name": "Bärenbach Süd",
+      "hafasID": "1091"
+    },
+    {
+      "name": "Bärsbach Galgenbusch",
+      "hafasID": "6987"
+    },
+    {
+      "name": "Bärsbach Ort",
+      "hafasID": "1467"
+    },
+    {
+      "name": "Bartholomäuskirche",
+      "hafasID": "2555"
+    },
+    {
+      "name": "BASF",
+      "hafasID": "2060"
+    },
+    {
+      "name": "BASF Friesenh. Insel",
+      "hafasID": "2340"
+    },
+    {
+      "name": "BASF Süd (Tor 1+7)",
+      "hafasID": "2219"
+    },
+    {
+      "name": "BASF Tor 5",
+      "hafasID": "2065"
+    },
+    {
+      "name": "BASF Tor 11",
+      "hafasID": "2062"
+    },
+    {
+      "name": "BASF Tor 12",
+      "hafasID": "2063"
+    },
+    {
+      "name": "Bastion",
+      "hafasID": "2337"
+    },
+    {
+      "name": "Bauhaus",
+      "hafasID": "1206"
+    },
+    {
+      "name": "Bayreuther Straße",
+      "hafasID": "2098"
+    },
+    {
+      "name": "BBS Franz-Zang-Str.",
+      "hafasID": "2069"
+    },
+    {
+      "name": "Beck",
+      "hafasID": "855"
+    },
+    {
+      "name": "Bensheimer Straße",
+      "hafasID": "2358"
+    },
+    {
+      "name": "Benzstraße",
+      "hafasID": "1712"
+    },
+    {
+      "name": "Bergfriedhof",
+      "hafasID": "1141"
+    },
+    {
+      "name": "Berghalde",
+      "hafasID": "3038"
+    },
+    {
+      "name": "Bergstraße",
+      "hafasID": "1224"
+    },
+    {
+      "name": "Berliner Platz, Bf LU Mitte",
+      "hafasID": "2066"
+    },
+    {
+      "name": "Berthold-Mogel-Str.",
+      "hafasID": "1177"
+    },
+    {
+      "name": "Berufsbildungszentr.",
+      "hafasID": "6809"
+    },
+    {
+      "name": "Berufsschule",
+      "hafasID": "1331"
+    },
+    {
+      "name": "Besselstraße",
+      "hafasID": "2951"
+    },
+    {
+      "name": "Bethanienkrankenhaus",
+      "hafasID": "1143"
+    },
+    {
+      "name": "Betriebsfahrt",
+      "hafasID": "9996"
+    },
+    {
+      "name": "Betriebshof",
+      "hafasID": "1144"
+    },
+    {
+      "name": "Bexbacher Straße",
+      "hafasID": "2149"
+    },
+    {
+      "name": "Bgm.-Fuchs-Straße",
+      "hafasID": "2397"
+    },
+    {
+      "name": "Bgm.-Krafft-Platz",
+      "hafasID": "2067"
+    },
+    {
+      "name": "Bgm.-Kutterer-Straße",
+      "hafasID": "2068"
+    },
+    {
+      "name": "Bgm.-Zorn-Platz",
+      "hafasID": "2168"
+    },
+    {
+      "name": "Bibienastraße",
+      "hafasID": "2398"
+    },
+    {
+      "name": "Bierhelderhof",
+      "hafasID": "1145"
+    },
+    {
+      "name": "Bildungszentrum",
+      "hafasID": "3001"
+    },
+    {
+      "name": "Bismarckplatz",
+      "hafasID": "1146"
+    },
+    {
+      "name": "Blies-Bad",
+      "hafasID": "6877"
+    },
+    {
+      "name": "Bliesstraße",
+      "hafasID": "2218"
+    },
+    {
+      "name": "Blockhaus",
+      "hafasID": "1147"
+    },
+    {
+      "name": "Blücherstraße",
+      "hafasID": "5557"
+    },
+    {
+      "name": "Blumenau",
+      "hafasID": "2570"
+    },
+    {
+      "name": "Blumenauer Weg",
+      "hafasID": "2556"
+    },
+    {
+      "name": "Blumenstraße",
+      "hafasID": "4105"
+    },
+    {
+      "name": "Blumenthalstraße",
+      "hafasID": "1225"
+    },
+    {
+      "name": "Böcklinstraße",
+      "hafasID": "2858"
+    },
+    {
+      "name": "Bohemia",
+      "hafasID": "1443"
+    },
+    {
+      "name": "Bonadiesstraße",
+      "hafasID": "2399"
+    },
+    {
+      "name": "Bonhoefferstraße",
+      "hafasID": "1290"
+    },
+    {
+      "name": "Bonifatiuskirche",
+      "hafasID": "2413"
+    },
+    {
+      "name": "Botanischer Garten",
+      "hafasID": "1232"
+    },
+    {
+      "name": "Boveristeg",
+      "hafasID": "2352"
+    },
+    {
+      "name": "Boveristraße",
+      "hafasID": "2359"
+    },
+    {
+      "name": "Boxbergring",
+      "hafasID": "1121"
+    },
+    {
+      "name": "Brauerei",
+      "hafasID": "2806"
+    },
+    {
+      "name": "Breslauer Straße",
+      "hafasID": "630"
+    },
+    {
+      "name": "Brockenweg",
+      "hafasID": "2572"
+    },
+    {
+      "name": "Brückenstr.",
+      "hafasID": "1260"
+    },
+    {
+      "name": "Brückweg",
+      "hafasID": "2191"
+    },
+    {
+      "name": "Bruderweg",
+      "hafasID": "2022"
+    },
+    {
+      "name": "Brunnenweg",
+      "hafasID": "5157"
+    },
+    {
+      "name": "Brüsseler Ring",
+      "hafasID": "2185"
+    },
+    {
+      "name": "Buchwaldweg",
+      "hafasID": "1122"
+    },
+    {
+      "name": "Budapester Straße",
+      "hafasID": "6739"
+    },
+    {
+      "name": "BUGA 23 Haupteingang",
+      "hafasID": "4046"
+    },
+    {
+      "name": "Bunsengymnasium",
+      "hafasID": "1228"
+    },
+    {
+      "name": "Bunsenstraße",
+      "hafasID": "2400"
+    },
+    {
+      "name": "Burbacher Straße",
+      "hafasID": "6647"
+    },
+    {
+      "name": "Burgstraße",
+      "hafasID": "1133"
+    },
+    {
+      "name": "Bürstadter Straße",
+      "hafasID": "2557"
+    },
+    {
+      "name": "Buschwegbrücke",
+      "hafasID": "2150"
+    },
+    {
+      "name": "Campus Bergheim",
+      "hafasID": "1189"
+    },
+    {
+      "name": "Campus Im Neuenh. F.",
+      "hafasID": "6144"
+    },
+    {
+      "name": "Carl-Benz-Bad",
+      "hafasID": "2598"
+    },
+    {
+      "name": "Carl-Benz-Platz",
+      "hafasID": "1713"
+    },
+    {
+      "name": "Carl-Benz-Stadion",
+      "hafasID": "2523"
+    },
+    {
+      "name": "Carl-Benz-Straße",
+      "hafasID": "2410"
+    },
+    {
+      "name": "Carl-Bosch-Museum",
+      "hafasID": "1288"
+    },
+    {
+      "name": "Chemnitzer Straße",
+      "hafasID": "2600"
+    },
+    {
+      "name": "Chiemseestraße",
+      "hafasID": "2526"
+    },
+    {
+      "name": "Chisinauer Platz",
+      "hafasID": "3920"
+    },
+    {
+      "name": "Christuskirche",
+      "hafasID": "1150"
+    },
+    {
+      "name": "Collini-Center",
+      "hafasID": "2569"
+    },
+    {
+      "name": "Czernybrücke",
+      "hafasID": "1151"
+    },
+    {
+      "name": "D.-Bonhoeffer-Schule",
+      "hafasID": "4110"
+    },
+    {
+      "name": "Da-Vinci-Straße",
+      "hafasID": "1152"
+    },
+    {
+      "name": "Dalbergstraße",
+      "hafasID": "2402"
+    },
+    {
+      "name": "Damaschkestraße",
+      "hafasID": "2144"
+    },
+    {
+      "name": "Dammbruchstraße",
+      "hafasID": "2169"
+    },
+    {
+      "name": "Dannstadter Straße",
+      "hafasID": "2483"
+    },
+    {
+      "name": "Deichstraße",
+      "hafasID": "2023"
+    },
+    {
+      "name": "Deidesheimer Straße",
+      "hafasID": "1640"
+    },
+    {
+      "name": "Deidesheimer Straße",
+      "hafasID": "3904"
+    },
+    {
+      "name": "Deutscher Hof",
+      "hafasID": "2587"
+    },
+    {
+      "name": "Diesterwegschule",
+      "hafasID": "2505"
+    },
+    {
+      "name": "Diffenebrücke",
+      "hafasID": "2388"
+    },
+    {
+      "name": "Distelsand",
+      "hafasID": "2532"
+    },
+    {
+      "name": "Domitianstraße",
+      "hafasID": "1727"
+    },
+    {
+      "name": "Dortmunder Straße",
+      "hafasID": "5698"
+    },
+    {
+      "name": "Dossenheim Bahnhof",
+      "hafasID": "515"
+    },
+    {
+      "name": "Dossenheim Nord",
+      "hafasID": "5742"
+    },
+    {
+      "name": "Dossenheim Süd",
+      "hafasID": "516"
+    },
+    {
+      "name": "Dragonerweg",
+      "hafasID": "4285"
+    },
+    {
+      "name": "Drehbrücke",
+      "hafasID": "7522"
+    },
+    {
+      "name": "Drei Eichen",
+      "hafasID": "1153"
+    },
+    {
+      "name": "Dreikreuzweg",
+      "hafasID": "2988"
+    },
+    {
+      "name": "Duale Hochschule",
+      "hafasID": "2521"
+    },
+    {
+      "name": "Dudenstraße",
+      "hafasID": "2403"
+    },
+    {
+      "name": "Dürkheimer Straße",
+      "hafasID": "2194"
+    },
+    {
+      "name": "Dürstelschlag",
+      "hafasID": "2338"
+    },
+    {
+      "name": "E.-Hübner-Platz",
+      "hafasID": "6827"
+    },
+    {
+      "name": "E.-v.-Thadden-Platz",
+      "hafasID": "1298"
+    },
+    {
+      "name": "Eastsite",
+      "hafasID": "6856"
+    },
+    {
+      "name": "Ebereschenweg",
+      "hafasID": "2092"
+    },
+    {
+      "name": "Ebertpark",
+      "hafasID": "2072"
+    },
+    {
+      "name": "Ebertpark / Fichtestr.",
+      "hafasID": "2029"
+    },
+    {
+      "name": "Ebertpark Süd",
+      "hafasID": "6645"
+    },
+    {
+      "name": "Edelstein",
+      "hafasID": "3475"
+    },
+    {
+      "name": "Edigheim Friedhof",
+      "hafasID": "2061"
+    },
+    {
+      "name": "Edigheim Kirche",
+      "hafasID": "2024"
+    },
+    {
+      "name": "Edingen Bahnhof",
+      "hafasID": "619"
+    },
+    {
+      "name": "Edingen Ost",
+      "hafasID": "616"
+    },
+    {
+      "name": "Edingen Rathaus",
+      "hafasID": "621"
+    },
+    {
+      "name": "Edingen West",
+      "hafasID": "623"
+    },
+    {
+      "name": "Eichbaumweg",
+      "hafasID": "1538"
+    },
+    {
+      "name": "Eichendorffplatz",
+      "hafasID": "1263"
+    },
+    {
+      "name": "Eichendorffstr.",
+      "hafasID": "2989"
+    },
+    {
+      "name": "Einsteinstraße",
+      "hafasID": "2339"
+    },
+    {
+      "name": "Eisenbahnbrücke",
+      "hafasID": "2990"
+    },
+    {
+      "name": "Eisenlohrplatz",
+      "hafasID": "2763"
+    },
+    {
+      "name": "Eislebener Weg",
+      "hafasID": "2578"
+    },
+    {
+      "name": "Eiterb. Ortsende",
+      "hafasID": "1435"
+    },
+    {
+      "name": "Eiterbach Ort",
+      "hafasID": "1441"
+    },
+    {
+      "name": "Elisabethenweg",
+      "hafasID": "1494"
+    },
+    {
+      "name": "Ellerstadt Kreissparkasse",
+      "hafasID": "659"
+    },
+    {
+      "name": "Ellerstadt Ost",
+      "hafasID": "656"
+    },
+    {
+      "name": "Ellerstadt Raiffeisen",
+      "hafasID": "657"
+    },
+    {
+      "name": "Ellerstadt West",
+      "hafasID": "658"
+    },
+    {
+      "name": "Elsa-Brändström-Str.",
+      "hafasID": "2327"
+    },
+    {
+      "name": "EMBL",
+      "hafasID": "2541"
+    },
+    {
+      "name": "Emmertsgrund",
+      "hafasID": "1127"
+    },
+    {
+      "name": "Englerstr.",
+      "hafasID": "1264"
+    },
+    {
+      "name": "Eppelheim Rathaus",
+      "hafasID": "697"
+    },
+    {
+      "name": "Eppelheimer Terrasse",
+      "hafasID": "4275"
+    },
+    {
+      "name": "Erich-Kästner-Straße",
+      "hafasID": "6648"
+    },
+    {
+      "name": "Erlenweg",
+      "hafasID": "1265"
+    },
+    {
+      "name": "Erlöserkirche",
+      "hafasID": "2614"
+    },
+    {
+      "name": "Eschenbachstraße",
+      "hafasID": "2188"
+    },
+    {
+      "name": "Eschenhof",
+      "hafasID": "2617"
+    },
+    {
+      "name": "Essener Straße",
+      "hafasID": "2531"
+    },
+    {
+      "name": "Eternit",
+      "hafasID": "1905"
+    },
+    {
+      "name": "Eugen-Neter-Schule",
+      "hafasID": "5555"
+    },
+    {
+      "name": "Exerzierplatz",
+      "hafasID": "2404"
+    },
+    {
+      "name": "Ezanvillestraße",
+      "hafasID": "1049"
+    },
+    {
+      "name": "Fabrikstraße",
+      "hafasID": "6141"
+    },
+    {
+      "name": "Fachklinik",
+      "hafasID": "1437"
+    },
+    {
+      "name": "Fahrlach",
+      "hafasID": "2258"
+    },
+    {
+      "name": "Faltkistenwerk",
+      "hafasID": "2527"
+    },
+    {
+      "name": "Fardelystraße",
+      "hafasID": "2510"
+    },
+    {
+      "name": "Feierabendhaus",
+      "hafasID": "2073"
+    },
+    {
+      "name": "Feldstraße",
+      "hafasID": "2314"
+    },
+    {
+      "name": "Fensenbäumen",
+      "hafasID": "3469"
+    },
+    {
+      "name": "Fernheizwerk",
+      "hafasID": "1123"
+    },
+    {
+      "name": "Fernmeldeturm",
+      "hafasID": "2406"
+    },
+    {
+      "name": "Festplatz",
+      "hafasID": "3444"
+    },
+    {
+      "name": "Feudenheim",
+      "hafasID": "2315"
+    },
+    {
+      "name": "Feudenheim Kirche",
+      "hafasID": "2317"
+    },
+    {
+      "name": "Feudenheim Kreuz",
+      "hafasID": "2318"
+    },
+    {
+      "name": "Feuerbachstraße",
+      "hafasID": "1155"
+    },
+    {
+      "name": "Feuerwache",
+      "hafasID": "2129"
+    },
+    {
+      "name": "Feuerwache Nord",
+      "hafasID": "2830"
+    },
+    {
+      "name": "Fieskostraße",
+      "hafasID": "2094"
+    },
+    {
+      "name": "Filmfestival",
+      "hafasID": "1020"
+    },
+    {
+      "name": "Finanzamt",
+      "hafasID": "1300"
+    },
+    {
+      "name": "Floßwörth",
+      "hafasID": "3306"
+    },
+    {
+      "name": "Föhrenweg",
+      "hafasID": "2618"
+    },
+    {
+      "name": "Forstquelle",
+      "hafasID": "1023"
+    },
+    {
+      "name": "Forum",
+      "hafasID": "1128"
+    },
+    {
+      "name": "Fr.-Engelhorn-Straße",
+      "hafasID": "2805"
+    },
+    {
+      "name": "Fr.-Nansen-Weg",
+      "hafasID": "2528"
+    },
+    {
+      "name": "Frankenstraße",
+      "hafasID": "2170"
+    },
+    {
+      "name": "Frankenstraße",
+      "hafasID": "2675"
+    },
+    {
+      "name": "Franklin Mitte",
+      "hafasID": "3053"
+    },
+    {
+      "name": "Franklin Sportanlagen",
+      "hafasID": "4049"
+    },
+    {
+      "name": "Franklinschule",
+      "hafasID": "3057"
+    },
+    {
+      "name": "Franz-Sigel-Straße",
+      "hafasID": "5540"
+    },
+    {
+      "name": "Franzosenweg",
+      "hafasID": "2502"
+    },
+    {
+      "name": "Freibad Willersinn",
+      "hafasID": "6958"
+    },
+    {
+      "name": "Freiberger Ring",
+      "hafasID": "2583"
+    },
+    {
+      "name": "Freiburger Str.",
+      "hafasID": "1267"
+    },
+    {
+      "name": "Freiburger Straße",
+      "hafasID": "4113"
+    },
+    {
+      "name": "Freiheitsplatz",
+      "hafasID": "2488"
+    },
+    {
+      "name": "Freilichtbühne",
+      "hafasID": "2620"
+    },
+    {
+      "name": "Freyaplatz",
+      "hafasID": "2621"
+    },
+    {
+      "name": "Friedelsheim",
+      "hafasID": "856"
+    },
+    {
+      "name": "Friedenspark",
+      "hafasID": "2126"
+    },
+    {
+      "name": "Friedensstraße",
+      "hafasID": "2192"
+    },
+    {
+      "name": "Friedhof",
+      "hafasID": "2992"
+    },
+    {
+      "name": "Friedrich-Ebert-Platz",
+      "hafasID": "1157"
+    },
+    {
+      "name": "Friedrich-Ebert-Str.",
+      "hafasID": "2993"
+    },
+    {
+      "name": "Friedrichsf. Kreuz",
+      "hafasID": "2336"
+    },
+    {
+      "name": "Friedrichsfeld Südbahnhof",
+      "hafasID": "2334"
+    },
+    {
+      "name": "Friedrichstraße",
+      "hafasID": "2487"
+    },
+    {
+      "name": "Friesenheim Mitte",
+      "hafasID": "2102"
+    },
+    {
+      "name": "Friesenheim Ost",
+      "hafasID": "2031"
+    },
+    {
+      "name": "Frobeniusstraße",
+      "hafasID": "2529"
+    },
+    {
+      "name": "Froschlache",
+      "hafasID": "2153"
+    },
+    {
+      "name": "FT Altenheim",
+      "hafasID": "824"
+    },
+    {
+      "name": "FT Feierabendhaus",
+      "hafasID": "778"
+    },
+    {
+      "name": "FT Hallenbad",
+      "hafasID": "782"
+    },
+    {
+      "name": "FT Hauptbahnhof",
+      "hafasID": "771"
+    },
+    {
+      "name": "FT Kugelfang",
+      "hafasID": "788"
+    },
+    {
+      "name": "FT Schillerschule",
+      "hafasID": "797"
+    },
+    {
+      "name": "FT Schmiedgasse",
+      "hafasID": "823"
+    },
+    {
+      "name": "FT Wormser Tor",
+      "hafasID": "806"
+    },
+    {
+      "name": "Füllenweg",
+      "hafasID": "2559"
+    },
+    {
+      "name": "Funaristraße",
+      "hafasID": "3497"
+    },
+    {
+      "name": "Fürstendamm",
+      "hafasID": "1309"
+    },
+    {
+      "name": "Fürstenwalder Weg",
+      "hafasID": "2659"
+    },
+    {
+      "name": "Fußballcampus HD",
+      "hafasID": "1230"
+    },
+    {
+      "name": "Fußgönheim",
+      "hafasID": "910"
+    },
+    {
+      "name": "Fußgönheim Bahnhofst.",
+      "hafasID": "911"
+    },
+    {
+      "name": "G.-Hauptmann-Schule",
+      "hafasID": "2552"
+    },
+    {
+      "name": "G.-Heieck-Str.",
+      "hafasID": "2696"
+    },
+    {
+      "name": "Gadamerplatz",
+      "hafasID": "4274"
+    },
+    {
+      "name": "Gaisbergstr.",
+      "hafasID": "1338"
+    },
+    {
+      "name": "Gartenstraße",
+      "hafasID": "2074"
+    },
+    {
+      "name": "Gebweilerstraße",
+      "hafasID": "2377"
+    },
+    {
+      "name": "Georgi-Marktplatz",
+      "hafasID": "1886"
+    },
+    {
+      "name": "Gerd-Dehof-Platz",
+      "hafasID": "3026"
+    },
+    {
+      "name": "Gesamtschule Herzogenried",
+      "hafasID": "2411"
+    },
+    {
+      "name": "Gewerbegebiet",
+      "hafasID": "5871"
+    },
+    {
+      "name": "Gewerkschaftshaus",
+      "hafasID": "2412"
+    },
+    {
+      "name": "Giulinistraße",
+      "hafasID": "2132"
+    },
+    {
+      "name": "Gleisdreieck",
+      "hafasID": "1257"
+    },
+    {
+      "name": "Glücksburger Weg",
+      "hafasID": "2622"
+    },
+    {
+      "name": "Glücksteinallee",
+      "hafasID": "3495"
+    },
+    {
+      "name": "Gneisenaustraße",
+      "hafasID": "1158"
+    },
+    {
+      "name": "Gneisenaustraße Süd",
+      "hafasID": "1330"
+    },
+    {
+      "name": "Goerdelerplatz",
+      "hafasID": "2075"
+    },
+    {
+      "name": "Goldener Pflug",
+      "hafasID": "1438"
+    },
+    {
+      "name": "Gönnheim",
+      "hafasID": "940"
+    },
+    {
+      "name": "Gönnheim Waage",
+      "hafasID": "941"
+    },
+    {
+      "name": "Gotenstraße",
+      "hafasID": "2680"
+    },
+    {
+      "name": "Graudenzer Linie",
+      "hafasID": "2573"
+    },
+    {
+      "name": "Gregor-Mendel-Realschule",
+      "hafasID": "1205"
+    },
+    {
+      "name": "Grenzhof",
+      "hafasID": "1370"
+    },
+    {
+      "name": "Grenzhöfer Weg",
+      "hafasID": "1294"
+    },
+    {
+      "name": "Grillhütte",
+      "hafasID": "5877"
+    },
+    {
+      "name": "Groß-Gerauer Straße",
+      "hafasID": "2408"
+    },
+    {
+      "name": "Großmarkt",
+      "hafasID": "4029"
+    },
+    {
+      "name": "Großparthweiher",
+      "hafasID": "7125"
+    },
+    {
+      "name": "Großsachsen Bahnhof",
+      "hafasID": "1581"
+    },
+    {
+      "name": "Großsachsen Süd",
+      "hafasID": "7140"
+    },
+    {
+      "name": "Grüner Baum",
+      "hafasID": "1310"
+    },
+    {
+      "name": "Grünewaldstraße",
+      "hafasID": "2517"
+    },
+    {
+      "name": "Gutenbergstraße",
+      "hafasID": "2434"
+    },
+    {
+      "name": "Güteramt",
+      "hafasID": "2415"
+    },
+    {
+      "name": "Gutleuthofhang",
+      "hafasID": "1062"
+    },
+    {
+      "name": "Gutleuthofweg",
+      "hafasID": "1093"
+    },
+    {
+      "name": "H.-Gutzmann-Schule",
+      "hafasID": "2710"
+    },
+    {
+      "name": "Haarlaß",
+      "hafasID": "1311"
+    },
+    {
+      "name": "Habichtplatz",
+      "hafasID": "2363"
+    },
+    {
+      "name": "Haderslebener Straße",
+      "hafasID": "2574"
+    },
+    {
+      "name": "Hafenbahnstraße",
+      "hafasID": "5647"
+    },
+    {
+      "name": "Hafenpark",
+      "hafasID": "2508"
+    },
+    {
+      "name": "Hagellachstraße",
+      "hafasID": "1208"
+    },
+    {
+      "name": "Hagellochstraße",
+      "hafasID": "2032"
+    },
+    {
+      "name": "Halbergstraße",
+      "hafasID": "2078"
+    },
+    {
+      "name": "Hallenweg",
+      "hafasID": "2530"
+    },
+    {
+      "name": "Handelshafen/Jungbusch Bahnhof",
+      "hafasID": "2416"
+    },
+    {
+      "name": "Händelstraße",
+      "hafasID": "4118"
+    },
+    {
+      "name": "Hanfmarkt",
+      "hafasID": "2995"
+    },
+    {
+      "name": "Hanfstraße",
+      "hafasID": "2560"
+    },
+    {
+      "name": "Hans-Böckler-Straße",
+      "hafasID": "1159"
+    },
+    {
+      "name": "Hans-Bunte-Straße",
+      "hafasID": "1245"
+    },
+    {
+      "name": "Hans-Thoma-Platz",
+      "hafasID": "1136"
+    },
+    {
+      "name": "Hans-Thoma-Schule",
+      "hafasID": "6440"
+    },
+    {
+      "name": "Hans-Thoma-Straße",
+      "hafasID": "2518"
+    },
+    {
+      "name": "Hans-Warsch-Platz",
+      "hafasID": "2154"
+    },
+    {
+      "name": "Hansastraße",
+      "hafasID": "2642"
+    },
+    {
+      "name": "Harbigweg",
+      "hafasID": "1209"
+    },
+    {
+      "name": "Harrlach",
+      "hafasID": "2515"
+    },
+    {
+      "name": "Haselnussweg",
+      "hafasID": "1124"
+    },
+    {
+      "name": "Hatschekstraße",
+      "hafasID": "3084"
+    },
+    {
+      "name": "Hauptgüterbahnhof",
+      "hafasID": "2419"
+    },
+    {
+      "name": "Hauptstraße",
+      "hafasID": "4606"
+    },
+    {
+      "name": "Haus Waldhof",
+      "hafasID": "5575"
+    },
+    {
+      "name": "Hausackerweg",
+      "hafasID": "1312"
+    },
+    {
+      "name": "Havellandstraße",
+      "hafasID": "3018"
+    },
+    {
+      "name": "HD Hauptbahnhof",
+      "hafasID": "1160"
+    },
+    {
+      "name": "HD Hauptbahnhof Süd",
+      "hafasID": "4272"
+    },
+    {
+      "name": "HD Hauptbahnhof West",
+      "hafasID": "1214"
+    },
+    {
+      "name": "HD Neckarspitze",
+      "hafasID": "1178"
+    },
+    {
+      "name": "HD Otto-Hahn-Straße",
+      "hafasID": "1131"
+    },
+    {
+      "name": "HD Rheinstraße",
+      "hafasID": "1185"
+    },
+    {
+      "name": "HD Schloss",
+      "hafasID": "1190"
+    },
+    {
+      "name": "Heddesh. Sportzentrum",
+      "hafasID": "1754"
+    },
+    {
+      "name": "Heddesheim Bahnhof",
+      "hafasID": "5563"
+    },
+    {
+      "name": "Heddesheim Blumenstraße",
+      "hafasID": "1111"
+    },
+    {
+      "name": "Heddesheim Gewerbegebiet",
+      "hafasID": "1112"
+    },
+    {
+      "name": "Heddesheim Rathaus",
+      "hafasID": "1114"
+    },
+    {
+      "name": "Heddesheim Siedlung",
+      "hafasID": "1115"
+    },
+    {
+      "name": "Heddesheim Werderstraße",
+      "hafasID": "6706"
+    },
+    {
+      "name": "Heddesheim-Hirschberg Bahnhof DB",
+      "hafasID": "1110"
+    },
+    {
+      "name": "Heddesheimer Straße",
+      "hafasID": "6802"
+    },
+    {
+      "name": "Hedwig-Laudien-Ring",
+      "hafasID": "2322"
+    },
+    {
+      "name": "Heidebuckelweg",
+      "hafasID": "1314"
+    },
+    {
+      "name": "Heiligenberg",
+      "hafasID": "6472"
+    },
+    {
+      "name": "Heiligenbergschule",
+      "hafasID": "1333"
+    },
+    {
+      "name": "Heiligenbergstraße",
+      "hafasID": "6407"
+    },
+    {
+      "name": "Heiligkreuzsteinach Schule",
+      "hafasID": "5873"
+    },
+    {
+      "name": "Heiligkreuzsteinach Sportanlagen",
+      "hafasID": "1576"
+    },
+    {
+      "name": "Heinr.-Vetter-Stift",
+      "hafasID": "1641"
+    },
+    {
+      "name": "Heinrich-Halfen-Str.",
+      "hafasID": "2849"
+    },
+    {
+      "name": "Heinrich-Pesch-Haus",
+      "hafasID": "2083"
+    },
+    {
+      "name": "Heinrich-Ries-Halle",
+      "hafasID": "2112"
+    },
+    {
+      "name": "Heinz-Schifferd.-Str.",
+      "hafasID": "2186"
+    },
+    {
+      "name": "Heizkraftwerk Nord",
+      "hafasID": "2354"
+    },
+    {
+      "name": "Helmertstraße",
+      "hafasID": "2489"
+    },
+    {
+      "name": "Hemshofstraße (BASF Tor 7)",
+      "hafasID": "2084"
+    },
+    {
+      "name": "Henkel-Teroson-Straße",
+      "hafasID": "1252"
+    },
+    {
+      "name": "Hermann-Treiber-Str.",
+      "hafasID": "1295"
+    },
+    {
+      "name": "Herrenalber Straße",
+      "hafasID": "2732"
+    },
+    {
+      "name": "Herrenmühle",
+      "hafasID": "6143"
+    },
+    {
+      "name": "Herrenweg",
+      "hafasID": "2996"
+    },
+    {
+      "name": "Hertzstr.",
+      "hafasID": "1269"
+    },
+    {
+      "name": "Herzogenriedbad",
+      "hafasID": "4287"
+    },
+    {
+      "name": "Herzogenriedstraße",
+      "hafasID": "2421"
+    },
+    {
+      "name": "Hessische Straße",
+      "hafasID": "2365"
+    },
+    {
+      "name": "Heuweg",
+      "hafasID": "6810"
+    },
+    {
+      "name": "Hildastr.",
+      "hafasID": "7078"
+    },
+    {
+      "name": "Hilsenhain Dell",
+      "hafasID": "1446"
+    },
+    {
+      "name": "Hilsenhain Ort",
+      "hafasID": "1447"
+    },
+    {
+      "name": "Hirschgasse",
+      "hafasID": "1161"
+    },
+    {
+      "name": "Hirtenaue",
+      "hafasID": "1104"
+    },
+    {
+      "name": "Hirtenbrunnenweg",
+      "hafasID": "1107"
+    },
+    {
+      "name": "HITS",
+      "hafasID": "1094"
+    },
+    {
+      "name": "Hkrz Marktplatz",
+      "hafasID": "1444"
+    },
+    {
+      "name": "Hochfeldstraße",
+      "hafasID": "2044"
+    },
+    {
+      "name": "Hochschule MA",
+      "hafasID": "2499"
+    },
+    {
+      "name": "Hochschule MA West",
+      "hafasID": "3496"
+    },
+    {
+      "name": "Hochschulen des Bundes",
+      "hafasID": "4288"
+    },
+    {
+      "name": "Hochstätt",
+      "hafasID": "2588"
+    },
+    {
+      "name": "Hochuferstraße",
+      "hafasID": "2422"
+    },
+    {
+      "name": "Hofrat-Wild-Straße",
+      "hafasID": "5559"
+    },
+    {
+      "name": "Hoheneckenstraße",
+      "hafasID": "2134"
+    },
+    {
+      "name": "Hohensachsen",
+      "hafasID": "4077"
+    },
+    {
+      "name": "Holbeinstraße",
+      "hafasID": "2533"
+    },
+    {
+      "name": "Hölderlinstraße",
+      "hafasID": "2316"
+    },
+    {
+      "name": "Holländerstraße",
+      "hafasID": "6159"
+    },
+    {
+      "name": "Hollergärten",
+      "hafasID": "2155"
+    },
+    {
+      "name": "Holzstraße",
+      "hafasID": "4302"
+    },
+    {
+      "name": "Holzweg",
+      "hafasID": "2503"
+    },
+    {
+      "name": "Hombuschstraße",
+      "hafasID": "2423"
+    },
+    {
+      "name": "Horst-Schork-Straße",
+      "hafasID": "2172"
+    },
+    {
+      "name": "Husarenweg",
+      "hafasID": "3024"
+    },
+    {
+      "name": "Ida-Dehmel-Ring",
+      "hafasID": "2468"
+    },
+    {
+      "name": "Ida-Pfeiffer-Straße",
+      "hafasID": "2535"
+    },
+    {
+      "name": "Ida-Scipio-Heim",
+      "hafasID": "2424"
+    },
+    {
+      "name": "IKEA / Scharhof",
+      "hafasID": "2807"
+    },
+    {
+      "name": "Ilse-Krall-Straße",
+      "hafasID": "1218"
+    },
+    {
+      "name": "Ilvesh. Friedhof Nord",
+      "hafasID": "6610"
+    },
+    {
+      "name": "Ilvesh. Neckarhalle",
+      "hafasID": "6606"
+    },
+    {
+      "name": "Ilvesheim Rathaus",
+      "hafasID": "1643"
+    },
+    {
+      "name": "Ilvesheim Uferstraße",
+      "hafasID": "1645"
+    },
+    {
+      "name": "Ilvesheim West",
+      "hafasID": "1654"
+    },
+    {
+      "name": "Ilvesheimer Straße",
+      "hafasID": "1714"
+    },
+    {
+      "name": "Im Anger",
+      "hafasID": "1088"
+    },
+    {
+      "name": "Im Bieth",
+      "hafasID": "3041"
+    },
+    {
+      "name": "Im Bosseldorn",
+      "hafasID": "6959"
+    },
+    {
+      "name": "Im Breitspiel",
+      "hafasID": "1270"
+    },
+    {
+      "name": "Im Buschgewann",
+      "hafasID": "1247"
+    },
+    {
+      "name": "Im Dornbusch",
+      "hafasID": "1249"
+    },
+    {
+      "name": "Im Eichwald",
+      "hafasID": "1125"
+    },
+    {
+      "name": "Im Grund",
+      "hafasID": "1282"
+    },
+    {
+      "name": "Im Hauskorb",
+      "hafasID": "6120"
+    },
+    {
+      "name": "Im Heimgarten",
+      "hafasID": "1335"
+    },
+    {
+      "name": "Im Hofert",
+      "hafasID": "1079"
+    },
+    {
+      "name": "Im Höllengrund",
+      "hafasID": "1347"
+    },
+    {
+      "name": "Im Morchhof",
+      "hafasID": "2491"
+    },
+    {
+      "name": "Im Neugraben",
+      "hafasID": "5371"
+    },
+    {
+      "name": "Im Neulich",
+      "hafasID": "1188"
+    },
+    {
+      "name": "Im Rott",
+      "hafasID": "5546"
+    },
+    {
+      "name": "Im Schaffner",
+      "hafasID": "1251"
+    },
+    {
+      "name": "Im Schelmenherschel",
+      "hafasID": "2156"
+    },
+    {
+      "name": "Im Wellengewann",
+      "hafasID": "1253"
+    },
+    {
+      "name": "Im Wohlbühl",
+      "hafasID": "2601"
+    },
+    {
+      "name": "Im Zinkig",
+      "hafasID": "2025"
+    },
+    {
+      "name": "In den Neugärten",
+      "hafasID": "6878"
+    },
+    {
+      "name": "Industriegebiet Am Römig",
+      "hafasID": "6600"
+    },
+    {
+      "name": "Industriestraße",
+      "hafasID": "2509"
+    },
+    {
+      "name": "Innerer Heckweg",
+      "hafasID": "6031"
+    },
+    {
+      "name": "Innovation Park (hip)",
+      "hafasID": "6855"
+    },
+    {
+      "name": "Integr. Gesamtschule",
+      "hafasID": "8153"
+    },
+    {
+      "name": "Integrierte Gesamtschule (IGSLO)",
+      "hafasID": "2159"
+    },
+    {
+      "name": "Irisstraße",
+      "hafasID": "6803"
+    },
+    {
+      "name": "Isarweg",
+      "hafasID": "2492"
+    },
+    {
+      "name": "J.-Kepler-Schule",
+      "hafasID": "1743"
+    },
+    {
+      "name": "Jägerhaus",
+      "hafasID": "1283"
+    },
+    {
+      "name": "Jahnstraße",
+      "hafasID": "1229"
+    },
+    {
+      "name": "Jakobsgasse",
+      "hafasID": "695"
+    },
+    {
+      "name": "Jakobuskirche",
+      "hafasID": "2396"
+    },
+    {
+      "name": "Jaspersstraße",
+      "hafasID": "1129"
+    },
+    {
+      "name": "Jellinekstraße",
+      "hafasID": "1134"
+    },
+    {
+      "name": "Jettaweg",
+      "hafasID": "1344"
+    },
+    {
+      "name": "Johann-Fischer-Straße",
+      "hafasID": "1132"
+    },
+    {
+      "name": "Johannes-Reidel-Str.",
+      "hafasID": "1882"
+    },
+    {
+      "name": "Jörder",
+      "hafasID": "1439"
+    },
+    {
+      "name": "Joseph-Bauer-Haus",
+      "hafasID": "2457"
+    },
+    {
+      "name": "Jubiläumsplatz",
+      "hafasID": "1192"
+    },
+    {
+      "name": "Jugendherberge",
+      "hafasID": "1231"
+    },
+    {
+      "name": "Jugendverkehrsschule",
+      "hafasID": "2729"
+    },
+    {
+      "name": "Jungbuschschule",
+      "hafasID": "2405"
+    },
+    {
+      "name": "Jupiterplatz",
+      "hafasID": "1729"
+    },
+    {
+      "name": "Käfertal Bahnhof",
+      "hafasID": "5547"
+    },
+    {
+      "name": "Käfertal DB-Bahnhof",
+      "hafasID": "2356"
+    },
+    {
+      "name": "Käfertal Friedhof",
+      "hafasID": "2361"
+    },
+    {
+      "name": "Käfertal Kulturhaus",
+      "hafasID": "3446"
+    },
+    {
+      "name": "Käfertal Rathaus",
+      "hafasID": "2371"
+    },
+    {
+      "name": "Käfertal Süd",
+      "hafasID": "2376"
+    },
+    {
+      "name": "Käfertaler Str.",
+      "hafasID": "1296"
+    },
+    {
+      "name": "Käfertaler Straße",
+      "hafasID": "6764"
+    },
+    {
+      "name": "Käfertaler Wald",
+      "hafasID": "2375"
+    },
+    {
+      "name": "Käfertalschule",
+      "hafasID": "2373"
+    },
+    {
+      "name": "Kaiser-Wilhelm-Str.",
+      "hafasID": "2086"
+    },
+    {
+      "name": "Kaiserstraße",
+      "hafasID": "1163"
+    },
+    {
+      "name": "Kaiserwörthdamm",
+      "hafasID": "2136"
+    },
+    {
+      "name": "Kallstadter Straße",
+      "hafasID": "2045"
+    },
+    {
+      "name": "Kammerschleuse",
+      "hafasID": "2342"
+    },
+    {
+      "name": "Kanalbrücke",
+      "hafasID": "1715"
+    },
+    {
+      "name": "Kapellenplatz",
+      "hafasID": "2589"
+    },
+    {
+      "name": "Kapellenweg",
+      "hafasID": "1135"
+    },
+    {
+      "name": "Karl-Christ-Straße",
+      "hafasID": "1117"
+    },
+    {
+      "name": "Karl-Dillinger-Str.",
+      "hafasID": "2177"
+    },
+    {
+      "name": "Karl-Feuerstein-Straße .",
+      "hafasID": "5588"
+    },
+    {
+      "name": "Karl-Kreuter-Straße",
+      "hafasID": "2158"
+    },
+    {
+      "name": "Karl-Schwaner-Straße",
+      "hafasID": "2534"
+    },
+    {
+      "name": "Karl-Schweizer-Park",
+      "hafasID": "2561"
+    },
+    {
+      "name": "Karlsbader Straße",
+      "hafasID": "6808"
+    },
+    {
+      "name": "Karlsplatz",
+      "hafasID": "1173"
+    },
+    {
+      "name": "Kärntner Straße",
+      "hafasID": "2118"
+    },
+    {
+      "name": "Karol.-Burger-Str.",
+      "hafasID": "2135"
+    },
+    {
+      "name": "Kasseler Straße",
+      "hafasID": "2623"
+    },
+    {
+      "name": "Kerschensteinerschule",
+      "hafasID": "2576"
+    },
+    {
+      "name": "Kettenschmiede",
+      "hafasID": "4291"
+    },
+    {
+      "name": "Kiesäcker",
+      "hafasID": "2634"
+    },
+    {
+      "name": "Kirchenbergweg",
+      "hafasID": "1046"
+    },
+    {
+      "name": "Kirchenstraße",
+      "hafasID": "2173"
+    },
+    {
+      "name": "Kirchheim Friedhof",
+      "hafasID": "1207"
+    },
+    {
+      "name": "Kirchheim Rathaus",
+      "hafasID": "1219"
+    },
+    {
+      "name": "Kirchheimer Hof",
+      "hafasID": "1222"
+    },
+    {
+      "name": "Kirchheimer Straße",
+      "hafasID": "696"
+    },
+    {
+      "name": "Kirchwaldstraße",
+      "hafasID": "2829"
+    },
+    {
+      "name": "Kirschgartshausen",
+      "hafasID": "2562"
+    },
+    {
+      "name": "Kirschnerstraße",
+      "hafasID": "1337"
+    },
+    {
+      "name": "Kleingemünder S. Ost",
+      "hafasID": "1336"
+    },
+    {
+      "name": "Kleingemünder Str.",
+      "hafasID": "1315"
+    },
+    {
+      "name": "Klingelhüttenweg",
+      "hafasID": "1342"
+    },
+    {
+      "name": "Klingelhüttenweg/Jettaweg",
+      "hafasID": "1343"
+    },
+    {
+      "name": "Klingenweg",
+      "hafasID": "1116"
+    },
+    {
+      "name": "Knappenwegstraße",
+      "hafasID": "2137"
+    },
+    {
+      "name": "Kohlhof",
+      "hafasID": "3740"
+    },
+    {
+      "name": "Kohlhof Fachklinik",
+      "hafasID": "1169"
+    },
+    {
+      "name": "Kolbenzeil",
+      "hafasID": "1272"
+    },
+    {
+      "name": "Kolpingstraße",
+      "hafasID": "7303"
+    },
+    {
+      "name": "Kometenweg",
+      "hafasID": "2368"
+    },
+    {
+      "name": "Kompostwerk",
+      "hafasID": "6173"
+    },
+    {
+      "name": "Königsbacher Straße",
+      "hafasID": "2046"
+    },
+    {
+      "name": "Königsberger Allee",
+      "hafasID": "2577"
+    },
+    {
+      "name": "Königsberger Straße",
+      "hafasID": "1211"
+    },
+    {
+      "name": "Königstuhl",
+      "hafasID": "1171"
+    },
+    {
+      "name": "Konrad-Adenauer-Br.",
+      "hafasID": "2426"
+    },
+    {
+      "name": "Konrad-Duden-Schule",
+      "hafasID": "2420"
+    },
+    {
+      "name": "Kopernikusstraße",
+      "hafasID": "2516"
+    },
+    {
+      "name": "Köpfel",
+      "hafasID": "1308"
+    },
+    {
+      "name": "Kopfklinik",
+      "hafasID": "6145"
+    },
+    {
+      "name": "Kormoranstraße",
+      "hafasID": "3454"
+    },
+    {
+      "name": "Krähenflügel",
+      "hafasID": "2563"
+    },
+    {
+      "name": "Kranichstraße",
+      "hafasID": "2026"
+    },
+    {
+      "name": "Kranichweg / Stotz",
+      "hafasID": "1261"
+    },
+    {
+      "name": "Krappmühlstraße",
+      "hafasID": "2564"
+    },
+    {
+      "name": "Krappstraße",
+      "hafasID": "2119"
+    },
+    {
+      "name": "Kreisimpfzentrum",
+      "hafasID": "5564"
+    },
+    {
+      "name": "Kreisstraße",
+      "hafasID": "4227"
+    },
+    {
+      "name": "Kreuzgrundweg",
+      "hafasID": "1317"
+    },
+    {
+      "name": "Kreuzstraße",
+      "hafasID": "2030"
+    },
+    {
+      "name": "Krone",
+      "hafasID": "3441"
+    },
+    {
+      "name": "Krügerstraße",
+      "hafasID": "2954"
+    },
+    {
+      "name": "Kühler Grund",
+      "hafasID": "3034"
+    },
+    {
+      "name": "Kühruhweg",
+      "hafasID": "1191"
+    },
+    {
+      "name": "Kümmelbacher Hof",
+      "hafasID": "2997"
+    },
+    {
+      "name": "Kunsthalle",
+      "hafasID": "5542"
+    },
+    {
+      "name": "Kunstverein",
+      "hafasID": "2401"
+    },
+    {
+      "name": "Kurpfalz Center",
+      "hafasID": "2608"
+    },
+    {
+      "name": "Kurpfalz-Centrum",
+      "hafasID": "1889"
+    },
+    {
+      "name": "Kurpfalzbrücke",
+      "hafasID": "2427"
+    },
+    {
+      "name": "Kurpfalzbrücke Ost",
+      "hafasID": "2006"
+    },
+    {
+      "name": "Kurpfalzring Süd",
+      "hafasID": "1255"
+    },
+    {
+      "name": "Kurt-Schumacher-Str.",
+      "hafasID": "2174"
+    },
+    {
+      "name": "Kußmaulstraße",
+      "hafasID": "1233"
+    },
+    {
+      "name": "Kutzerweiher",
+      "hafasID": "2364"
+    },
+    {
+      "name": "Ladenb. Daimlerstraße",
+      "hafasID": "3073"
+    },
+    {
+      "name": "Ladenb. Pflastermühle",
+      "hafasID": "1723"
+    },
+    {
+      "name": "Ladenburg ABB",
+      "hafasID": "1710"
+    },
+    {
+      "name": "Ladenburg Am Graben",
+      "hafasID": "1725"
+    },
+    {
+      "name": "Ladenburg Ankerplatz",
+      "hafasID": "1726"
+    },
+    {
+      "name": "Ladenburg Bahnhofstr.",
+      "hafasID": "1728"
+    },
+    {
+      "name": "Ladenburger Straße",
+      "hafasID": "2482"
+    },
+    {
+      "name": "Ladenburger Straße",
+      "hafasID": "3476"
+    },
+    {
+      "name": "Ladenburger Straße",
+      "hafasID": "6455"
+    },
+    {
+      "name": "Lagerhausstraße",
+      "hafasID": "1863"
+    },
+    {
+      "name": "Lagewiesenstraße",
+      "hafasID": "2033"
+    },
+    {
+      "name": "Lämmertränke",
+      "hafasID": "2590"
+    },
+    {
+      "name": "Lampenhain Rathaus",
+      "hafasID": "1448"
+    },
+    {
+      "name": "Landgüterhalle",
+      "hafasID": "2430"
+    },
+    {
+      "name": "Landsknechtweg",
+      "hafasID": "4286"
+    },
+    {
+      "name": "Landwehrstraße",
+      "hafasID": "2431"
+    },
+    {
+      "name": "Landzungenstraße",
+      "hafasID": "2809"
+    },
+    {
+      "name": "Lange Morgen",
+      "hafasID": "1642"
+    },
+    {
+      "name": "Lange Rötterstraße",
+      "hafasID": "2432"
+    },
+    {
+      "name": "Langer Kirschbaum",
+      "hafasID": "1318"
+    },
+    {
+      "name": "Langer Schlag",
+      "hafasID": "2624"
+    },
+    {
+      "name": "Langgewannstraße",
+      "hafasID": "5372"
+    },
+    {
+      "name": "Langlachweg",
+      "hafasID": "2328"
+    },
+    {
+      "name": "Lanzvilla",
+      "hafasID": "2357"
+    },
+    {
+      "name": "Leimen Friedhof",
+      "hafasID": "1879"
+    },
+    {
+      "name": "Leimer Straße",
+      "hafasID": "3030"
+    },
+    {
+      "name": "Leininger Straße",
+      "hafasID": "2047"
+    },
+    {
+      "name": "Leoniweg",
+      "hafasID": "6008"
+    },
+    {
+      "name": "Lerchenbuckel",
+      "hafasID": "1299"
+    },
+    {
+      "name": "Lessingstraße",
+      "hafasID": "2433"
+    },
+    {
+      "name": "Lettestraße",
+      "hafasID": "2494"
+    },
+    {
+      "name": "Letzter Heller",
+      "hafasID": "2998"
+    },
+    {
+      "name": "Leuschnerstraße",
+      "hafasID": "2116"
+    },
+    {
+      "name": "Leutersh. Heddesheimer Straße",
+      "hafasID": "1584"
+    },
+    {
+      "name": "Leutershausen Bf",
+      "hafasID": "1585"
+    },
+    {
+      "name": "Leutershausen West",
+      "hafasID": "1586"
+    },
+    {
+      "name": "Leutershausener Straße",
+      "hafasID": "6707"
+    },
+    {
+      "name": "Liebfrauenstraße",
+      "hafasID": "2319"
+    },
+    {
+      "name": "Lilienstraße",
+      "hafasID": "631"
+    },
+    {
+      "name": "Lilienthal-Center",
+      "hafasID": "3703"
+    },
+    {
+      "name": "Lilli-Gräber-Halle",
+      "hafasID": "2333"
+    },
+    {
+      "name": "Lincolnallee",
+      "hafasID": "3398"
+    },
+    {
+      "name": "Lindenbach",
+      "hafasID": "3445"
+    },
+    {
+      "name": "Linsenbuckel",
+      "hafasID": "1440"
+    },
+    {
+      "name": "Lochgärten",
+      "hafasID": "2511"
+    },
+    {
+      "name": "Londoner Ring",
+      "hafasID": "6740"
+    },
+    {
+      "name": "Lortzingstraße",
+      "hafasID": "2435"
+    },
+    {
+      "name": "Louise-Ebert-Zentrum",
+      "hafasID": "1126"
+    },
+    {
+      "name": "Löwen",
+      "hafasID": "1319"
+    },
+    {
+      "name": "LU Bismarckstraße",
+      "hafasID": "3859"
+    },
+    {
+      "name": "LU Hauptbahnhof",
+      "hafasID": "2080"
+    },
+    {
+      "name": "LU Hauptfriedhof",
+      "hafasID": "2081"
+    },
+    {
+      "name": "LU Hochschule",
+      "hafasID": "2076"
+    },
+    {
+      "name": "LU Jägerstraße",
+      "hafasID": "2085"
+    },
+    {
+      "name": "LU Klinikum",
+      "hafasID": "2079"
+    },
+    {
+      "name": "LU Rathaus",
+      "hafasID": "2096"
+    },
+    {
+      "name": "Lucas-Cranach-Straße",
+      "hafasID": "2519"
+    },
+    {
+      "name": "Ludolf-Krehl-Straße",
+      "hafasID": "2436"
+    },
+    {
+      "name": "Ludwig-Guttmann-Str.",
+      "hafasID": "1542"
+    },
+    {
+      "name": "Ludwigsh. Arbeitsamt",
+      "hafasID": "2056"
+    },
+    {
+      "name": "Ludwigstal",
+      "hafasID": "3477"
+    },
+    {
+      "name": "Ludwigstraße",
+      "hafasID": "2089"
+    },
+    {
+      "name": "Luftschiff",
+      "hafasID": "2648"
+    },
+    {
+      "name": "Luisenpark/Technoseum",
+      "hafasID": "2429"
+    },
+    {
+      "name": "Luitpoldhafen",
+      "hafasID": "2114"
+    },
+    {
+      "name": "Lutherstraße",
+      "hafasID": "829"
+    },
+    {
+      "name": "Lützels. Pilgerhaus",
+      "hafasID": "4085"
+    },
+    {
+      "name": "Lützelsachsen Bergs.",
+      "hafasID": "4084"
+    },
+    {
+      "name": "Luzenberg",
+      "hafasID": "2386"
+    },
+    {
+      "name": "Luzenberg Ost",
+      "hafasID": "3278"
+    },
+    {
+      "name": "M.-von-Graimberg-Haus",
+      "hafasID": "6142"
+    },
+    {
+      "name": "M.-Winterhalter-Ring",
+      "hafasID": "2581"
+    },
+    {
+      "name": "MA Hauptbahnhof",
+      "hafasID": "2417"
+    },
+    {
+      "name": "MA Hauptbahnhof Süd",
+      "hafasID": "2383"
+    },
+    {
+      "name": "MA Hauptfriedhof",
+      "hafasID": "2418"
+    },
+    {
+      "name": "MA Rathaus/rem",
+      "hafasID": "6041"
+    },
+    {
+      "name": "Magdeburger Straße",
+      "hafasID": "2602"
+    },
+    {
+      "name": "Mahrgrund",
+      "hafasID": "6933"
+    },
+    {
+      "name": "Maimarkt",
+      "hafasID": "2520"
+    },
+    {
+      "name": "Mallaustraße",
+      "hafasID": "2495"
+    },
+    {
+      "name": "Maltesergasse",
+      "hafasID": "1301"
+    },
+    {
+      "name": "Malzstraße",
+      "hafasID": "2651"
+    },
+    {
+      "name": "Mannheimer Straße",
+      "hafasID": "5545"
+    },
+    {
+      "name": "Mannheimer Tor",
+      "hafasID": "2157"
+    },
+    {
+      "name": "MARCHIVUM",
+      "hafasID": "2425"
+    },
+    {
+      "name": "Maria-Mitchel-Straße",
+      "hafasID": "4278"
+    },
+    {
+      "name": "Marienhof",
+      "hafasID": "1399"
+    },
+    {
+      "name": "Marienkirche",
+      "hafasID": "2090"
+    },
+    {
+      "name": "Marienkrankenhaus",
+      "hafasID": "2048"
+    },
+    {
+      "name": "Mark-Twain-Center",
+      "hafasID": "1235"
+    },
+    {
+      "name": "Markscheide",
+      "hafasID": "1273"
+    },
+    {
+      "name": "Marktplatz",
+      "hafasID": "2438"
+    },
+    {
+      "name": "Marktplatz",
+      "hafasID": "3447"
+    },
+    {
+      "name": "Marktstr.",
+      "hafasID": "1256"
+    },
+    {
+      "name": "Markuskirche",
+      "hafasID": "2497"
+    },
+    {
+      "name": "Marlene-Dietrich-Platz",
+      "hafasID": "1234"
+    },
+    {
+      "name": "Marstallstraße",
+      "hafasID": "1174"
+    },
+    {
+      "name": "Martinistraße",
+      "hafasID": "2539"
+    },
+    {
+      "name": "Martinskirche",
+      "hafasID": "2540"
+    },
+    {
+      "name": "Martinstor",
+      "hafasID": "1716"
+    },
+    {
+      "name": "Mary-Somerville-Platz (hip)",
+      "hafasID": "6799"
+    },
+    {
+      "name": "Mathilde-Vogt-Haus",
+      "hafasID": "1213"
+    },
+    {
+      "name": "Matthäuskirche",
+      "hafasID": "2498"
+    },
+    {
+      "name": "Maudach Kleestraße",
+      "hafasID": "2120"
+    },
+    {
+      "name": "Maudach Ortsmitte",
+      "hafasID": "2115"
+    },
+    {
+      "name": "Maudach Süd",
+      "hafasID": "2868"
+    },
+    {
+      "name": "Maudacher Bruch",
+      "hafasID": "2123"
+    },
+    {
+      "name": "Maudacher Schloss",
+      "hafasID": "2117"
+    },
+    {
+      "name": "Maudacher Straße",
+      "hafasID": "2121"
+    },
+    {
+      "name": "Max-Born-Straße",
+      "hafasID": "2341"
+    },
+    {
+      "name": "Max-Joseph-Straße",
+      "hafasID": "2439"
+    },
+    {
+      "name": "Max-Pechstein-Str.",
+      "hafasID": "7521"
+    },
+    {
+      "name": "Max-Planck-Straße",
+      "hafasID": "2344"
+    },
+    {
+      "name": "Maxdorf",
+      "hafasID": "2810"
+    },
+    {
+      "name": "Maxdorf Hauptstraße",
+      "hafasID": "2819"
+    },
+    {
+      "name": "Maxdorf Rathaus",
+      "hafasID": "2812"
+    },
+    {
+      "name": "Maxdorf Süd",
+      "hafasID": "2814"
+    },
+    {
+      "name": "Maximilianstraße",
+      "hafasID": "2366"
+    },
+    {
+      "name": "Med.Kl/Chirurgie/Zoo",
+      "hafasID": "1246"
+    },
+    {
+      "name": "Meeräckerplatz",
+      "hafasID": "2384"
+    },
+    {
+      "name": "Melacpass",
+      "hafasID": "2999"
+    },
+    {
+      "name": "Memeler Straße",
+      "hafasID": "2582"
+    },
+    {
+      "name": "Mensa am Schloss",
+      "hafasID": "6004"
+    },
+    {
+      "name": "Mercedes-Benz Tor 1",
+      "hafasID": "2387"
+    },
+    {
+      "name": "Meßkircher Straße",
+      "hafasID": "2875"
+    },
+    {
+      "name": "Messplatz",
+      "hafasID": "6795"
+    },
+    {
+      "name": "Mittagsweide",
+      "hafasID": "2122"
+    },
+    {
+      "name": "Mitten im Feld",
+      "hafasID": "5303"
+    },
+    {
+      "name": "Mittlerer Rainweg",
+      "hafasID": "1320"
+    },
+    {
+      "name": "Möhlstraße",
+      "hafasID": "2440"
+    },
+    {
+      "name": "Molkenkur",
+      "hafasID": "1176"
+    },
+    {
+      "name": "Moll-Gymnasium",
+      "hafasID": "3451"
+    },
+    {
+      "name": "Moltkestr.",
+      "hafasID": "1884"
+    },
+    {
+      "name": "Mombertplatz",
+      "hafasID": "1130"
+    },
+    {
+      "name": "Mönchhofschule",
+      "hafasID": "1236"
+    },
+    {
+      "name": "Montpellierbrücke",
+      "hafasID": "6794"
+    },
+    {
+      "name": "Moselbrunnenweg",
+      "hafasID": "1109"
+    },
+    {
+      "name": "Moselstraße",
+      "hafasID": "2442"
+    },
+    {
+      "name": "MPI Astronomie",
+      "hafasID": "1175"
+    },
+    {
+      "name": "MPI Kernphysik",
+      "hafasID": "1167"
+    },
+    {
+      "name": "Muckensturmer Straße",
+      "hafasID": "6439"
+    },
+    {
+      "name": "Mühlauhafen",
+      "hafasID": "4368"
+    },
+    {
+      "name": "Mühlaustraße",
+      "hafasID": "6838"
+    },
+    {
+      "name": "Mühldamm",
+      "hafasID": "1321"
+    },
+    {
+      "name": "Mühldorferstraße",
+      "hafasID": "2443"
+    },
+    {
+      "name": "Mühltalstraße",
+      "hafasID": "6411"
+    },
+    {
+      "name": "Mülhauser Straße",
+      "hafasID": "2329"
+    },
+    {
+      "name": "Münchwälderstraße",
+      "hafasID": "2542"
+    },
+    {
+      "name": "Mundenheim Bahnhof",
+      "hafasID": "2127"
+    },
+    {
+      "name": "Mundenheim Friedhof",
+      "hafasID": "2130"
+    },
+    {
+      "name": "Mundenheim Nord",
+      "hafasID": "2139"
+    },
+    {
+      "name": "Muskatormühle",
+      "hafasID": "2350"
+    },
+    {
+      "name": "Mutterstadt Friedhof",
+      "hafasID": "2939"
+    },
+    {
+      "name": "MVV-Hochhaus",
+      "hafasID": "5549"
+    },
+    {
+      "name": "Nachtweide",
+      "hafasID": "3284"
+    },
+    {
+      "name": "Nationaltheater",
+      "hafasID": "2444"
+    },
+    {
+      "name": "Neckarau Bahnhof",
+      "hafasID": "2481"
+    },
+    {
+      "name": "Neckarau Friedhof",
+      "hafasID": "2486"
+    },
+    {
+      "name": "Neckarau Marktplatz",
+      "hafasID": "2496"
+    },
+    {
+      "name": "Neckarau West",
+      "hafasID": "2507"
+    },
+    {
+      "name": "Neckargemünd Bf",
+      "hafasID": "2986"
+    },
+    {
+      "name": "Neckarh. Friedhof",
+      "hafasID": "6709"
+    },
+    {
+      "name": "Neckarhausen Brücke",
+      "hafasID": "624"
+    },
+    {
+      "name": "Neckarhausen Ost",
+      "hafasID": "625"
+    },
+    {
+      "name": "Neckarhausen Schloss",
+      "hafasID": "626"
+    },
+    {
+      "name": "Neckarhausen West",
+      "hafasID": "627"
+    },
+    {
+      "name": "Neckarhelle",
+      "hafasID": "1322"
+    },
+    {
+      "name": "Neckarmünzplatz",
+      "hafasID": "1119"
+    },
+    {
+      "name": "Neckarplatt",
+      "hafasID": "2320"
+    },
+    {
+      "name": "Neckarschule",
+      "hafasID": "1323"
+    },
+    {
+      "name": "Neckarspitze",
+      "hafasID": "2445"
+    },
+    {
+      "name": "Neckarstadt West",
+      "hafasID": "2446"
+    },
+    {
+      "name": "Neckarstraße",
+      "hafasID": "2321"
+    },
+    {
+      "name": "Neckarvorlandstraße",
+      "hafasID": "2448"
+    },
+    {
+      "name": "Neckarwiese",
+      "hafasID": "1220"
+    },
+    {
+      "name": "Nelkestraße",
+      "hafasID": "6804"
+    },
+    {
+      "name": "Neu-Edingen Gewerbegebiet",
+      "hafasID": "629"
+    },
+    {
+      "name": "Neudorfstraße",
+      "hafasID": "2330"
+    },
+    {
+      "name": "Neue Schulstraße",
+      "hafasID": "1644"
+    },
+    {
+      "name": "Neueichwaldstraße",
+      "hafasID": "2625"
+    },
+    {
+      "name": "Neuer Meßplatz",
+      "hafasID": "2449"
+    },
+    {
+      "name": "Neuer Weg",
+      "hafasID": "1324"
+    },
+    {
+      "name": "Neues Leben",
+      "hafasID": "2369"
+    },
+    {
+      "name": "Neuhofen Rathaus",
+      "hafasID": "3076"
+    },
+    {
+      "name": "Neuhofer Straße",
+      "hafasID": "2543"
+    },
+    {
+      "name": "Neuhöfer Straße",
+      "hafasID": "2871"
+    },
+    {
+      "name": "Neumarkt",
+      "hafasID": "5550"
+    },
+    {
+      "name": "Neumayerstraße",
+      "hafasID": "2537"
+    },
+    {
+      "name": "Neuostheim",
+      "hafasID": "2522"
+    },
+    {
+      "name": "Neurott",
+      "hafasID": "1202"
+    },
+    {
+      "name": "Neustadter Straße",
+      "hafasID": "2378"
+    },
+    {
+      "name": "Ngmd. Altes Rathaus",
+      "hafasID": "2985"
+    },
+    {
+      "name": "Niederfeld",
+      "hafasID": "2145"
+    },
+    {
+      "name": "Niederweid",
+      "hafasID": "2345"
+    },
+    {
+      "name": "O.-Bauder-Sportanlagen",
+      "hafasID": "6029"
+    },
+    {
+      "name": "Obere Seegasse",
+      "hafasID": "1215"
+    },
+    {
+      "name": "Oberer Fauler Pelz",
+      "hafasID": "1179"
+    },
+    {
+      "name": "Ochsenkopf",
+      "hafasID": "1180"
+    },
+    {
+      "name": "Odenwaldstraße",
+      "hafasID": "1216"
+    },
+    {
+      "name": "Oderstraße",
+      "hafasID": "6650"
+    },
+    {
+      "name": "Offizierssiedlung",
+      "hafasID": "3059"
+    },
+    {
+      "name": "Oggersheim Bahnhof",
+      "hafasID": "2148"
+    },
+    {
+      "name": "Oggersheim Friedhof",
+      "hafasID": "2152"
+    },
+    {
+      "name": "Oggersheim, Comeniusstaße",
+      "hafasID": "5700"
+    },
+    {
+      "name": "Ölhafen",
+      "hafasID": "2346"
+    },
+    {
+      "name": "Ölhafenstraße",
+      "hafasID": "2347"
+    },
+    {
+      "name": "Öllager",
+      "hafasID": "2649"
+    },
+    {
+      "name": "Olympiastützpunkt",
+      "hafasID": "1227"
+    },
+    {
+      "name": "Oppau Friedhof",
+      "hafasID": "4743"
+    },
+    {
+      "name": "Oppau Gemeindehaus",
+      "hafasID": "2171"
+    },
+    {
+      "name": "Oppau Süd",
+      "hafasID": "2176"
+    },
+    {
+      "name": "Oppau West",
+      "hafasID": "2178"
+    },
+    {
+      "name": "Oppau, Fritz-Haber-Straße (BASF Tor 12+13)",
+      "hafasID": "2181"
+    },
+    {
+      "name": "Ortenauer Str.",
+      "hafasID": "1274"
+    },
+    {
+      "name": "Osterburker Straße",
+      "hafasID": "2636"
+    },
+    {
+      "name": "Ostringplatz",
+      "hafasID": "2179"
+    },
+    {
+      "name": "Otto-Beck-Straße",
+      "hafasID": "2450"
+    },
+    {
+      "name": "Otto-Ditscher-Haus",
+      "hafasID": "5701"
+    },
+    {
+      "name": "Otto-Hahn-Straße",
+      "hafasID": "5562"
+    },
+    {
+      "name": "Otto-Thiele-Platz",
+      "hafasID": "2670"
+    },
+    {
+      "name": "P+M-Parkplatz",
+      "hafasID": "6998"
+    },
+    {
+      "name": "Pädagogische Hochschule",
+      "hafasID": "1238"
+    },
+    {
+      "name": "Papyrus",
+      "hafasID": "2627"
+    },
+    {
+      "name": "Paradeplatz",
+      "hafasID": "2451"
+    },
+    {
+      "name": "Parkinsel",
+      "hafasID": "2859"
+    },
+    {
+      "name": "Pasadenaallee",
+      "hafasID": "2231"
+    },
+    {
+      "name": "Patrick-Henry-Village",
+      "hafasID": "6985"
+    },
+    {
+      "name": "Patrick-Henry-Village Süd",
+      "hafasID": "7745"
+    },
+    {
+      "name": "Paul-Klee-Str.",
+      "hafasID": "7526"
+    },
+    {
+      "name": "Paul-Münch-Straße",
+      "hafasID": "5152"
+    },
+    {
+      "name": "Pestalozzischule",
+      "hafasID": "2452"
+    },
+    {
+      "name": "Peterskirche",
+      "hafasID": "1181"
+    },
+    {
+      "name": "Peterstaler Str.",
+      "hafasID": "1364"
+    },
+    {
+      "name": "Pettenkoferstraße",
+      "hafasID": "2151"
+    },
+    {
+      "name": "Pfalzbau",
+      "hafasID": "2093"
+    },
+    {
+      "name": "Pfalzburger Straße",
+      "hafasID": "2911"
+    },
+    {
+      "name": "Pfälzer Hof",
+      "hafasID": "620"
+    },
+    {
+      "name": "Pfalzplatz",
+      "hafasID": "5560"
+    },
+    {
+      "name": "Pfeifferswörth",
+      "hafasID": "2464"
+    },
+    {
+      "name": "Pfingstberg",
+      "hafasID": "2545"
+    },
+    {
+      "name": "Pfingstberg Sportan.",
+      "hafasID": "6036"
+    },
+    {
+      "name": "Pfingstweide Zentrum",
+      "hafasID": "2187"
+    },
+    {
+      "name": "Pflug",
+      "hafasID": "3442"
+    },
+    {
+      "name": "Pforzheimer Straße",
+      "hafasID": "2593"
+    },
+    {
+      "name": "Philharmonie",
+      "hafasID": "2220"
+    },
+    {
+      "name": "Pigagestraße",
+      "hafasID": "2551"
+    },
+    {
+      "name": "Planetarium",
+      "hafasID": "2453"
+    },
+    {
+      "name": "Platz der Freundsch.",
+      "hafasID": "2367"
+    },
+    {
+      "name": "Pleikartsförster Hof",
+      "hafasID": "1210"
+    },
+    {
+      "name": "Pleikartsförster Str.",
+      "hafasID": "1981"
+    },
+    {
+      "name": "Pommernstraße",
+      "hafasID": "2050"
+    },
+    {
+      "name": "Popakademie",
+      "hafasID": "6006"
+    },
+    {
+      "name": "Posseltslust",
+      "hafasID": "1182"
+    },
+    {
+      "name": "Potsdamer Weg",
+      "hafasID": "2603"
+    },
+    {
+      "name": "Prager Straße",
+      "hafasID": "6158"
+    },
+    {
+      "name": "Pumpwerk",
+      "hafasID": "2599"
+    },
+    {
+      "name": "Pyramidenstraße",
+      "hafasID": "2380"
+    },
+    {
+      "name": "Quartier am Turm",
+      "hafasID": "6140"
+    },
+    {
+      "name": "Rainweg",
+      "hafasID": "1325"
+    },
+    {
+      "name": "Raschig",
+      "hafasID": "2095"
+    },
+    {
+      "name": "Rastatter Str.",
+      "hafasID": "1275"
+    },
+    {
+      "name": "Rastatter Str. West",
+      "hafasID": "1540"
+    },
+    {
+      "name": "Rastenburger Straße",
+      "hafasID": "2571"
+    },
+    {
+      "name": "Rathaus/Bergbahn",
+      "hafasID": "1184"
+    },
+    {
+      "name": "Rautenthaler Mühle",
+      "hafasID": "1718"
+    },
+    {
+      "name": "Redtenbacherstraße",
+      "hafasID": "1081"
+    },
+    {
+      "name": "Rehbachstraße",
+      "hafasID": "3078"
+    },
+    {
+      "name": "Reiterweg",
+      "hafasID": "2360"
+    },
+    {
+      "name": "Rgh. Hoher Weg",
+      "hafasID": "2869"
+    },
+    {
+      "name": "Rhein-Galerie",
+      "hafasID": "2097"
+    },
+    {
+      "name": "Rhein-Neckar-Werkst.",
+      "hafasID": "1303"
+    },
+    {
+      "name": "Rheinau Bahnhof",
+      "hafasID": "2525"
+    },
+    {
+      "name": "Rheinau Karlsplatz",
+      "hafasID": "2544"
+    },
+    {
+      "name": "Rheinfeldstraße",
+      "hafasID": "2035"
+    },
+    {
+      "name": "Rheingoldhalle",
+      "hafasID": "2501"
+    },
+    {
+      "name": "Rheingönh. Gemeindeh.",
+      "hafasID": "2867"
+    },
+    {
+      "name": "Rheingönheim Bahnhof",
+      "hafasID": "2189"
+    },
+    {
+      "name": "Rheingönheim Neubruch",
+      "hafasID": "2197"
+    },
+    {
+      "name": "Rheinhorststraße",
+      "hafasID": "2160"
+    },
+    {
+      "name": "Rheinrottstraße",
+      "hafasID": "2348"
+    },
+    {
+      "name": "Rheinstraße",
+      "hafasID": "2458"
+    },
+    {
+      "name": "Riedsaumpark",
+      "hafasID": "2036"
+    },
+    {
+      "name": "Riedstraße",
+      "hafasID": "6805"
+    },
+    {
+      "name": "Riedwiesen",
+      "hafasID": "2349"
+    },
+    {
+      "name": "Rieslingweg",
+      "hafasID": "3888"
+    },
+    {
+      "name": "Ringstr.",
+      "hafasID": "6791"
+    },
+    {
+      "name": "Robert-Lauth-Straße",
+      "hafasID": "2734"
+    },
+    {
+      "name": "Roche",
+      "hafasID": "2616"
+    },
+    {
+      "name": "Rohrbach Friedhof",
+      "hafasID": "3031"
+    },
+    {
+      "name": "Rohrbach Kirche",
+      "hafasID": "1271"
+    },
+    {
+      "name": "Rohrbach Markt",
+      "hafasID": "1276"
+    },
+    {
+      "name": "Rohrbach NVZ",
+      "hafasID": "3368"
+    },
+    {
+      "name": "Rohrbach Rathaus",
+      "hafasID": "3029"
+    },
+    {
+      "name": "Rohrbach Süd",
+      "hafasID": "1278"
+    },
+    {
+      "name": "Rohrbacher Grenzweg",
+      "hafasID": "1186"
+    },
+    {
+      "name": "Rohrhofer Straße",
+      "hafasID": "2547"
+    },
+    {
+      "name": "Rohrlachstraße",
+      "hafasID": "2100"
+    },
+    {
+      "name": "Rolloßweg",
+      "hafasID": "6826"
+    },
+    {
+      "name": "Rombachweg",
+      "hafasID": "1285"
+    },
+    {
+      "name": "Rombachweg Süd",
+      "hafasID": "1341"
+    },
+    {
+      "name": "Römerkreis Süd",
+      "hafasID": "1187"
+    },
+    {
+      "name": "Rooseveltstraße",
+      "hafasID": "3058"
+    },
+    {
+      "name": "Rosenbrunnen",
+      "hafasID": "4132"
+    },
+    {
+      "name": "Rosengarten",
+      "hafasID": "2459"
+    },
+    {
+      "name": "Rosenhof",
+      "hafasID": "1719"
+    },
+    {
+      "name": "Rosenwörthstraße",
+      "hafasID": "2161"
+    },
+    {
+      "name": "Rotterdamer S. Mitte",
+      "hafasID": "2343"
+    },
+    {
+      "name": "Rotterdamer S. Nord",
+      "hafasID": "2332"
+    },
+    {
+      "name": "Rotterdamer S. Süd",
+      "hafasID": "2548"
+    },
+    {
+      "name": "Rottstraße",
+      "hafasID": "2101"
+    },
+    {
+      "name": "Rottstückerweg",
+      "hafasID": "2037"
+    },
+    {
+      "name": "Ruchheim Bahnhof",
+      "hafasID": "2203"
+    },
+    {
+      "name": "Ruchheim Schloss",
+      "hafasID": "2202"
+    },
+    {
+      "name": "Ruckelshausen",
+      "hafasID": "1720"
+    },
+    {
+      "name": "Rüdesheimer Straße",
+      "hafasID": "4026"
+    },
+    {
+      "name": "Rudi-Baerwind-Platz",
+      "hafasID": "4383"
+    },
+    {
+      "name": "Rüdigerstraße",
+      "hafasID": "2027"
+    },
+    {
+      "name": "Rudolf-Diesel-Straße",
+      "hafasID": "1149"
+    },
+    {
+      "name": "Ruhrorter Straße",
+      "hafasID": "2549"
+    },
+    {
+      "name": "S-Bahnhof Altstadt",
+      "hafasID": "1166"
+    },
+    {
+      "name": "S-Bahnhof Kirchheim/Rohrbach",
+      "hafasID": "1203"
+    },
+    {
+      "name": "S-Bf Orthopädie",
+      "hafasID": "1284"
+    },
+    {
+      "name": "S-Bf Pfaffeng./Wgl.",
+      "hafasID": "1454"
+    },
+    {
+      "name": "S-Bf Schlierb. / Zgh.",
+      "hafasID": "1287"
+    },
+    {
+      "name": "S-Bf West- / Südstadt",
+      "hafasID": "1457"
+    },
+    {
+      "name": "Saarbrücker Straße",
+      "hafasID": "2039"
+    },
+    {
+      "name": "Saarburger Ring",
+      "hafasID": "2833"
+    },
+    {
+      "name": "Saarstr.",
+      "hafasID": "1277"
+    },
+    {
+      "name": "Sachsenstraße",
+      "hafasID": "2579"
+    },
+    {
+      "name": "Sandgewann",
+      "hafasID": "2460"
+    },
+    {
+      "name": "Sandhofen",
+      "hafasID": "2567"
+    },
+    {
+      "name": "Sandhofen Friedhof",
+      "hafasID": "2558"
+    },
+    {
+      "name": "Sandhofen Rathaus",
+      "hafasID": "2485"
+    },
+    {
+      "name": "Sandhofer Weg",
+      "hafasID": "2565"
+    },
+    {
+      "name": "Sandrain",
+      "hafasID": "2550"
+    },
+    {
+      "name": "Sandwingert",
+      "hafasID": "1334"
+    },
+    {
+      "name": "SAP Arena",
+      "hafasID": "2847"
+    },
+    {
+      "name": "SAP Arena S-Bahnhof",
+      "hafasID": "3894"
+    },
+    {
+      "name": "SAP Arena Süd",
+      "hafasID": "3027"
+    },
+    {
+      "name": "Schafhof",
+      "hafasID": "1445"
+    },
+    {
+      "name": "Schafweide",
+      "hafasID": "5590"
+    },
+    {
+      "name": "Scharhof",
+      "hafasID": "2566"
+    },
+    {
+      "name": "Schauernheim Nord",
+      "hafasID": "461"
+    },
+    {
+      "name": "Schauernheim Süd",
+      "hafasID": "462"
+    },
+    {
+      "name": "Schillerschule",
+      "hafasID": "2141"
+    },
+    {
+      "name": "Schillerstraße",
+      "hafasID": "622"
+    },
+    {
+      "name": "Schleifengrundweg",
+      "hafasID": "1106"
+    },
+    {
+      "name": "Schlesierstraße",
+      "hafasID": "2051"
+    },
+    {
+      "name": "Schlittweg",
+      "hafasID": "2595"
+    },
+    {
+      "name": "Schloss",
+      "hafasID": "2462"
+    },
+    {
+      "name": "Schönau",
+      "hafasID": "5553"
+    },
+    {
+      "name": "Schönau Siedlung",
+      "hafasID": "5554"
+    },
+    {
+      "name": "Schönauer Abtweg",
+      "hafasID": "1148"
+    },
+    {
+      "name": "Schönauer Str.",
+      "hafasID": "1449"
+    },
+    {
+      "name": "Schönauschule",
+      "hafasID": "2584"
+    },
+    {
+      "name": "Schopenhauerstraße",
+      "hafasID": "2040"
+    },
+    {
+      "name": "Schriesh. Schwimmbad",
+      "hafasID": "3480"
+    },
+    {
+      "name": "Schriesh. Stammberg",
+      "hafasID": "3481"
+    },
+    {
+      "name": "Schriesheim Bahnhof",
+      "hafasID": "3479"
+    },
+    {
+      "name": "Schriesheim Rathaus",
+      "hafasID": "3478"
+    },
+    {
+      "name": "Schriesheim Süd",
+      "hafasID": "3482"
+    },
+    {
+      "name": "Schriesheimer Hof",
+      "hafasID": "4295"
+    },
+    {
+      "name": "Schriesheimer Straße",
+      "hafasID": "6924"
+    },
+    {
+      "name": "Schul/Sportzentrum",
+      "hafasID": "5872"
+    },
+    {
+      "name": "Schulbergweg",
+      "hafasID": "1349"
+    },
+    {
+      "name": "Schützenhausbrücke",
+      "hafasID": "3014"
+    },
+    {
+      "name": "Schützenstr.",
+      "hafasID": "1258"
+    },
+    {
+      "name": "Schützenstraße",
+      "hafasID": "2104"
+    },
+    {
+      "name": "Schwabenstraße",
+      "hafasID": "2596"
+    },
+    {
+      "name": "Schwalbenweg",
+      "hafasID": "2041"
+    },
+    {
+      "name": "Schwanthalerplatz",
+      "hafasID": "2865"
+    },
+    {
+      "name": "Schwarzkreuzstraße",
+      "hafasID": "1721"
+    },
+    {
+      "name": "Schweizertalstr.",
+      "hafasID": "1326"
+    },
+    {
+      "name": "Schweriner Weg",
+      "hafasID": "2604"
+    },
+    {
+      "name": "Schwetzinger Terrasse",
+      "hafasID": "4256"
+    },
+    {
+      "name": "Schwimmbad",
+      "hafasID": "1240"
+    },
+    {
+      "name": "Schwindstraße",
+      "hafasID": "2524"
+    },
+    {
+      "name": "Seckenheim OEG-Bf.",
+      "hafasID": "2591"
+    },
+    {
+      "name": "Seckenheim Rathaus",
+      "hafasID": "2594"
+    },
+    {
+      "name": "Seegarten",
+      "hafasID": "1168"
+    },
+    {
+      "name": "Shellhaus",
+      "hafasID": "2105"
+    },
+    {
+      "name": "Sickingenplatz",
+      "hafasID": "7073"
+    },
+    {
+      "name": "Siebenbürger Straße",
+      "hafasID": "2707"
+    },
+    {
+      "name": "Siegelsmauer",
+      "hafasID": "3032"
+    },
+    {
+      "name": "Sitzbuchweg Mitte",
+      "hafasID": "1042"
+    },
+    {
+      "name": "Sitzbuchweg Nord",
+      "hafasID": "1041"
+    },
+    {
+      "name": "SNP dome (hip)",
+      "hafasID": "7744"
+    },
+    {
+      "name": "Sonderburger Straße",
+      "hafasID": "5556"
+    },
+    {
+      "name": "Sonnenschein",
+      "hafasID": "2374"
+    },
+    {
+      "name": "Sparkasse",
+      "hafasID": "3450"
+    },
+    {
+      "name": "Speckweg",
+      "hafasID": "2362"
+    },
+    {
+      "name": "Speyerer Straße",
+      "hafasID": "2162"
+    },
+    {
+      "name": "Speyerer Straße",
+      "hafasID": "3079"
+    },
+    {
+      "name": "Speyererhof",
+      "hafasID": "7135"
+    },
+    {
+      "name": "Sportplatz",
+      "hafasID": "1084"
+    },
+    {
+      "name": "Sportzentrum Nord",
+      "hafasID": "1241"
+    },
+    {
+      "name": "Sporwörthplatz",
+      "hafasID": "2392"
+    },
+    {
+      "name": "Spreewaldallee",
+      "hafasID": "2644"
+    },
+    {
+      "name": "SRH Campus",
+      "hafasID": "1693"
+    },
+    {
+      "name": "St. Hildegard",
+      "hafasID": "2456"
+    },
+    {
+      "name": "St. Ilgener Straße",
+      "hafasID": "5140"
+    },
+    {
+      "name": "St.-Martin-Straße",
+      "hafasID": "1067"
+    },
+    {
+      "name": "Stadtbücherei",
+      "hafasID": "1193"
+    },
+    {
+      "name": "Stadthalle",
+      "hafasID": "1170"
+    },
+    {
+      "name": "Stadttor",
+      "hafasID": "3003"
+    },
+    {
+      "name": "Stadtwerke",
+      "hafasID": "1194"
+    },
+    {
+      "name": "Stahlbad",
+      "hafasID": "4136"
+    },
+    {
+      "name": "Stechgraben",
+      "hafasID": "3080"
+    },
+    {
+      "name": "Steigerweg",
+      "hafasID": "1455"
+    },
+    {
+      "name": "Steinachbrücke",
+      "hafasID": "3443"
+    },
+    {
+      "name": "Steinbacher Tal",
+      "hafasID": "1328"
+    },
+    {
+      "name": "Steinhofweg",
+      "hafasID": "1259"
+    },
+    {
+      "name": "Steinzeugstraße",
+      "hafasID": "2697"
+    },
+    {
+      "name": "Sternstraße",
+      "hafasID": "2042"
+    },
+    {
+      "name": "Sternwarte",
+      "hafasID": "1195"
+    },
+    {
+      "name": "Stift Neuburg",
+      "hafasID": "1327"
+    },
+    {
+      "name": "Stifterstraße",
+      "hafasID": "2133"
+    },
+    {
+      "name": "Stiftsmühle",
+      "hafasID": "1329"
+    },
+    {
+      "name": "Stolberger Straße",
+      "hafasID": "2391"
+    },
+    {
+      "name": "Stollenwörth",
+      "hafasID": "2646"
+    },
+    {
+      "name": "Stolzeneckstraße",
+      "hafasID": "2390"
+    },
+    {
+      "name": "Storchenstraße",
+      "hafasID": "2693"
+    },
+    {
+      "name": "Strandbad",
+      "hafasID": "2504"
+    },
+    {
+      "name": "Straßenheimer Weg",
+      "hafasID": "2605"
+    },
+    {
+      "name": "Strohmarkt",
+      "hafasID": "2465"
+    },
+    {
+      "name": "Stromhafen",
+      "hafasID": "4392"
+    },
+    {
+      "name": "Studentenwohnheim",
+      "hafasID": "1242"
+    },
+    {
+      "name": "Studernheim Süd",
+      "hafasID": "820"
+    },
+    {
+      "name": "Stützelstraße",
+      "hafasID": "2182"
+    },
+    {
+      "name": "Südwest-Stadion",
+      "hafasID": "2108"
+    },
+    {
+      "name": "Suebenheim",
+      "hafasID": "2597"
+    },
+    {
+      "name": "Sullivan",
+      "hafasID": "4048"
+    },
+    {
+      "name": "Talstraße",
+      "hafasID": "2324"
+    },
+    {
+      "name": "Tannhäuserring",
+      "hafasID": "2394"
+    },
+    {
+      "name": "Tattersall",
+      "hafasID": "2466"
+    },
+    {
+      "name": "Taunusplatz",
+      "hafasID": "2628"
+    },
+    {
+      "name": "Taylor Nord",
+      "hafasID": "3019"
+    },
+    {
+      "name": "Taylor Ost",
+      "hafasID": "3020"
+    },
+    {
+      "name": "Technologiepark",
+      "hafasID": "1226"
+    },
+    {
+      "name": "Technoseum Süd",
+      "hafasID": "3028"
+    },
+    {
+      "name": "Teufelsbrücke",
+      "hafasID": "2467"
+    },
+    {
+      "name": "Teufelskanzelweg",
+      "hafasID": "1286"
+    },
+    {
+      "name": "Teufelsloch",
+      "hafasID": "2513"
+    },
+    {
+      "name": "Textilmuseum",
+      "hafasID": "1307"
+    },
+    {
+      "name": "Theodor-Heuss-Brücke",
+      "hafasID": "6741"
+    },
+    {
+      "name": "Therese-Blase-Straße",
+      "hafasID": "2463"
+    },
+    {
+      "name": "Theresienkrankenhaus",
+      "hafasID": "5543"
+    },
+    {
+      "name": "Thomas-Mann-Straße",
+      "hafasID": "617"
+    },
+    {
+      "name": "Tiefburg",
+      "hafasID": "6404"
+    },
+    {
+      "name": "Tilsiter Straße",
+      "hafasID": "2580"
+    },
+    {
+      "name": "Tullastr.",
+      "hafasID": "1279"
+    },
+    {
+      "name": "Turnerbrunnen",
+      "hafasID": "6409"
+    },
+    {
+      "name": "TÜV",
+      "hafasID": "2469"
+    },
+    {
+      "name": "Uferstraße",
+      "hafasID": "2163"
+    },
+    {
+      "name": "Ulanenweg",
+      "hafasID": "3025"
+    },
+    {
+      "name": "Ulmenweg",
+      "hafasID": "2470"
+    },
+    {
+      "name": "Universität",
+      "hafasID": "2471"
+    },
+    {
+      "name": "Universität West",
+      "hafasID": "6755"
+    },
+    {
+      "name": "Universitätsklinikum",
+      "hafasID": "5544"
+    },
+    {
+      "name": "Universitätsplatz",
+      "hafasID": "1198"
+    },
+    {
+      "name": "Unterdorf",
+      "hafasID": "4296"
+    },
+    {
+      "name": "Untere Rödt",
+      "hafasID": "6957"
+    },
+    {
+      "name": "Untermühlaustraße",
+      "hafasID": "2472"
+    },
+    {
+      "name": "Unterwald",
+      "hafasID": "3081"
+    },
+    {
+      "name": "Ursenb. Estenklinge",
+      "hafasID": "3485"
+    },
+    {
+      "name": "Ursenbach Ort",
+      "hafasID": "3486"
+    },
+    {
+      "name": "Ursenbacher Hof",
+      "hafasID": "3487"
+    },
+    {
+      "name": "Val.-Bauer-Siedlung",
+      "hafasID": "2109"
+    },
+    {
+      "name": "Val.-Bauer-Siedlung Süd",
+      "hafasID": "2110"
+    },
+    {
+      "name": "Verbindungskanal",
+      "hafasID": "6007"
+    },
+    {
+      "name": "Verl Jungbuschstr.",
+      "hafasID": "2473"
+    },
+    {
+      "name": "Viernh. Kapellenberg",
+      "hafasID": "3841"
+    },
+    {
+      "name": "Viernheim Bahnhof",
+      "hafasID": "3851"
+    },
+    {
+      "name": "Viernheim Ost",
+      "hafasID": "3853"
+    },
+    {
+      "name": "Viernheim Tivoli",
+      "hafasID": "3865"
+    },
+    {
+      "name": "Villa Bosch",
+      "hafasID": "1340"
+    },
+    {
+      "name": "Villa Schmeil",
+      "hafasID": "1102"
+    },
+    {
+      "name": "Vogelstang",
+      "hafasID": "2606"
+    },
+    {
+      "name": "Vogelstang West",
+      "hafasID": "2609"
+    },
+    {
+      "name": "Vogelstang Zentrum",
+      "hafasID": "2610"
+    },
+    {
+      "name": "Vogesenstraße",
+      "hafasID": "2335"
+    },
+    {
+      "name": "Völklinger Straße",
+      "hafasID": "2461"
+    },
+    {
+      "name": "Völklinger Straße",
+      "hafasID": "6646"
+    },
+    {
+      "name": "Volkshaus",
+      "hafasID": "2052"
+    },
+    {
+      "name": "Volkshochschule",
+      "hafasID": "1199"
+    },
+    {
+      "name": "Voltastraße",
+      "hafasID": "2506"
+    },
+    {
+      "name": "Von-Kieffer-Straße",
+      "hafasID": "2049"
+    },
+    {
+      "name": "Vorderheubach Burg Waldeck",
+      "hafasID": "5883"
+    },
+    {
+      "name": "Vorderheubach Höhe",
+      "hafasID": "5876"
+    },
+    {
+      "name": "Vorderheubach Mitte",
+      "hafasID": "5875"
+    },
+    {
+      "name": "Wachenheimer Straße",
+      "hafasID": "3902"
+    },
+    {
+      "name": "Waldfriedhof",
+      "hafasID": "2650"
+    },
+    {
+      "name": "Waldhof Bahnhof",
+      "hafasID": "2615"
+    },
+    {
+      "name": "Waldhof Nord",
+      "hafasID": "2626"
+    },
+    {
+      "name": "Waldorfschule HD",
+      "hafasID": "1306"
+    },
+    {
+      "name": "Waldpforte",
+      "hafasID": "2629"
+    },
+    {
+      "name": "Waldseestraße",
+      "hafasID": "2553"
+    },
+    {
+      "name": "Waldstraße",
+      "hafasID": "2630"
+    },
+    {
+      "name": "Waldweg",
+      "hafasID": "6408"
+    },
+    {
+      "name": "Wallstadt Bahnhof",
+      "hafasID": "2635"
+    },
+    {
+      "name": "Wallstadt Friedhof",
+      "hafasID": "2691"
+    },
+    {
+      "name": "Wallstadt Mitte",
+      "hafasID": "2694"
+    },
+    {
+      "name": "Wallstadt Ost",
+      "hafasID": "2643"
+    },
+    {
+      "name": "Wallstadt Sportanl.",
+      "hafasID": "2639"
+    },
+    {
+      "name": "Wallstadt Wasserturm",
+      "hafasID": "2640"
+    },
+    {
+      "name": "Wallstadt West",
+      "hafasID": "2645"
+    },
+    {
+      "name": "Wallstadter Straße",
+      "hafasID": "1722"
+    },
+    {
+      "name": "Wallstadtschule",
+      "hafasID": "2638"
+    },
+    {
+      "name": "Walter-Gropius-Allee",
+      "hafasID": "3835"
+    },
+    {
+      "name": "Walzmühle",
+      "hafasID": "7520"
+    },
+    {
+      "name": "Warnemünder Weg",
+      "hafasID": "2607"
+    },
+    {
+      "name": "Washingtonstraße",
+      "hafasID": "3087"
+    },
+    {
+      "name": "Wasserturm",
+      "hafasID": "2475"
+    },
+    {
+      "name": "Wasserwerk",
+      "hafasID": "6807"
+    },
+    {
+      "name": "Wasserwerkstraße",
+      "hafasID": "2474"
+    },
+    {
+      "name": "Weberstraße",
+      "hafasID": "2476"
+    },
+    {
+      "name": "Weidenwörth",
+      "hafasID": "2351"
+    },
+    {
+      "name": "Weihergärten",
+      "hafasID": "1734"
+    },
+    {
+      "name": "Weinheim Alt. OEG-Bf",
+      "hafasID": "4146"
+    },
+    {
+      "name": "Weinheim Hauptbahnh.",
+      "hafasID": "4109"
+    },
+    {
+      "name": "Weites Tal",
+      "hafasID": "3483"
+    },
+    {
+      "name": "Wendestelle Hbw",
+      "hafasID": "1681"
+    },
+    {
+      "name": "Werderstraße",
+      "hafasID": "2477"
+    },
+    {
+      "name": "Werner-Heisenberg-S.",
+      "hafasID": "2699"
+    },
+    {
+      "name": "Westlich B 9",
+      "hafasID": "6649"
+    },
+    {
+      "name": "Weststadt",
+      "hafasID": "1980"
+    },
+    {
+      "name": "Wetzlarer Winkel",
+      "hafasID": "2619"
+    },
+    {
+      "name": "Wieb. Evang. Kirche",
+      "hafasID": "1292"
+    },
+    {
+      "name": "Wieb. Taubenfeld",
+      "hafasID": "1304"
+    },
+    {
+      "name": "Wieblingen Mitte",
+      "hafasID": "1302"
+    },
+    {
+      "name": "Wieblingen Nord",
+      "hafasID": "1291"
+    },
+    {
+      "name": "Wielandtstr.",
+      "hafasID": "1316"
+    },
+    {
+      "name": "Wildpark",
+      "hafasID": "2200"
+    },
+    {
+      "name": "Wilhelm-Hack-Museum",
+      "hafasID": "2077"
+    },
+    {
+      "name": "Wilhelm-Tell-Straße",
+      "hafasID": "2165"
+    },
+    {
+      "name": "Wilhelmsfeld Autohalle",
+      "hafasID": "4290"
+    },
+    {
+      "name": "Wilhelmsfeld Kipp",
+      "hafasID": "4292"
+    },
+    {
+      "name": "Wilhelmsfeld Rathaus",
+      "hafasID": "4293"
+    },
+    {
+      "name": "Wilhelmshöhe",
+      "hafasID": "4297"
+    },
+    {
+      "name": "Windeckstraße",
+      "hafasID": "2500"
+    },
+    {
+      "name": "Winzergenossenschaft",
+      "hafasID": "850"
+    },
+    {
+      "name": "Winzergenossenschaft",
+      "hafasID": "858"
+    },
+    {
+      "name": "Wittelsbachplatz",
+      "hafasID": "2111"
+    },
+    {
+      "name": "Wohlgelegen EKZ",
+      "hafasID": "2765"
+    },
+    {
+      "name": "Wolfsbrunnensteige",
+      "hafasID": "1345"
+    },
+    {
+      "name": "Wolfsgrube",
+      "hafasID": "2028"
+    },
+    {
+      "name": "Wollstraße",
+      "hafasID": "2142"
+    },
+    {
+      "name": "Woogstraße",
+      "hafasID": "3083"
+    },
+    {
+      "name": "Zäher Wille",
+      "hafasID": "2379"
+    },
+    {
+      "name": "Zähringer Straße",
+      "hafasID": "2592"
+    },
+    {
+      "name": "Zellstoff-Fabrik",
+      "hafasID": "2631"
+    },
+    {
+      "name": "Zementwerk",
+      "hafasID": "1890"
+    },
+    {
+      "name": "Zentgrafenstraße",
+      "hafasID": "3484"
+    },
+    {
+      "name": "Zentrales Impfzentrum",
+      "hafasID": "2214"
+    },
+    {
+      "name": "Zeppelinstraße",
+      "hafasID": "4445"
+    },
+    {
+      "name": "Ziegelhausen Altes Rathaus",
+      "hafasID": "1033"
+    },
+    {
+      "name": "Ziegelhausen Friedhof",
+      "hafasID": "1248"
+    },
+    {
+      "name": "Ziegelhausen Kirche",
+      "hafasID": "1313"
+    },
+    {
+      "name": "Zielstraße",
+      "hafasID": "2437"
+    },
+    {
+      "name": "Ziethenstraße",
+      "hafasID": "2325"
+    },
+    {
+      "name": "Zoo",
+      "hafasID": "1243"
+    },
+    {
+      "name": "Zum Guten Hirten",
+      "hafasID": "2166"
+    },
+    {
+      "name": "Zündholzfabrik",
+      "hafasID": "2554"
+    }
+  ]
+}
