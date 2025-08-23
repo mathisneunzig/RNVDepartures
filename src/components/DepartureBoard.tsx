@@ -2,11 +2,11 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { Box, Button, Card, CardContent, FormControlLabel, Stack, Switch, Typography } from '@mui/material'
 import { useQuery, gql } from '@apollo/client'
 import DeparturesDoc from '../graphql/queries/Departures.graphql?raw'
-import DeparturesTable from './DeparturesTable'
+import DeparturesTable from './DepartureTable'
 import { delayMinutes, minutesUntil } from '../utils/time'
 import StationSearch from './StationSearch'
 import { purgeExpired } from '../hooks/favorites'
-import { Row } from './DeparturesTypes'
+import { Row } from './DepartureTypes'
 
 const DEPARTURES = gql`${DeparturesDoc}`
 
@@ -18,9 +18,9 @@ export default function DepartureBoard({ defaultStationId = '2417', first = 12 }
   const isoMinus1m = () => new Date(Date.now() - 60000).toISOString()
 
   const [stationId, setStationId] = useState(defaultStationId)
-  const [count, setCount] = useState(first)
+  const [count, _setCount] = useState(first)
   const [autoRefresh, setAutoRefresh] = useState(true)
-  const [refreshSec, setRefreshSec] = useState(30)
+  const [refreshSec, _setRefreshSec] = useState(60)
   const [startTime, setStartTime] = useState(() => isoMinus1m())
 
   const timerRef = useRef<number | null>(null)

@@ -4,7 +4,7 @@ import DeparturesTableHead from './DeparturesTableHead.tsx'
 import DeparturesLoadingRow from './DepartureLoadingRow.tsx'
 import DeparturesEmptyRow from './DepartureEmptyRow.tsx'
 import DepartureRows from './DepartureRows.tsx'
-import type { Row } from './DeparturesTypes.tsx'
+import type { Row } from './DepartureTypes.tsx'
 import { favKeyOf } from './DepartureKeys.tsx'
 
 export default function DeparturesTable({ loading, rows }: { loading: boolean; rows: Row[] }) {

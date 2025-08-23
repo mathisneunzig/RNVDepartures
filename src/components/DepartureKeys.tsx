@@ -1,4 +1,4 @@
-import type { Row } from './DeparturesTypes'
+import type { Row } from './DepartureTypes'
 import type { FavKey } from '../hooks/favorites'
 
 export function favKeyOf(r: Row): FavKey {

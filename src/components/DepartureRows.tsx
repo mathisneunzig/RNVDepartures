@@ -6,7 +6,7 @@ import LineBadge from './LineBadge'
 import FavoriteToggleButton from './FavoriteToggleButton'
 import { fmt } from '../utils/time'
 import { delayColor } from '../utils/colors'
-import type { Row } from './DeparturesTypes'
+import type { Row } from './DepartureTypes'
 import type { FavKey } from '../hooks/favorites'
 
 export default function DepartureRows({
