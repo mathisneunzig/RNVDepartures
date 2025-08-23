@@ -1,0 +1,30 @@
+query Departures($stationId: String!, $startTime: String!, $first: Int!) {
+  station(id: $stationId) {
+    hafasID
+    longName
+    journeys(startTime: $startTime, first: $first) {
+      elements {
+        ... on Journey {
+          line {
+            lastJourneyTypes
+            lineGroup { id }
+            style { primary { hex } }
+          }
+          currentStop: stops(onlyHafasID: $stationId) {
+            destinationLabel
+            plannedDeparture { isoString }
+            realtimeDeparture { isoString }
+          }
+          allStops: stops {
+						station {
+							name
+							hafasID
+						}
+            plannedDeparture { isoString }
+            realtimeDeparture { isoString }
+          }
+        }
+      }
+    }
+  }
+}
