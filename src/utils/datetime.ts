@@ -1,0 +1,1 @@
+export const isoMinus1m = () => new Date(Date.now() - 60000).toISOString()

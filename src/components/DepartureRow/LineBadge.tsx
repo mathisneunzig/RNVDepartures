@@ -1,5 +1,5 @@
 import { Box, Typography } from '@mui/material'
-import { contrastText } from '../utils/colors'
+import { contrastText } from '../../utils/colors'
 
 export default function LineBadge({
   label,

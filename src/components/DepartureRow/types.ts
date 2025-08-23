@@ -1,3 +1,12 @@
+import type { FavKey } from "../../hooks/favorites"
+
+export type DepartureRowProps = {
+  row: Row
+  isOpen: boolean
+  favKey: FavKey
+  onToggle: () => void
+}
+
 export type Row = {
     line: string
     destination: string

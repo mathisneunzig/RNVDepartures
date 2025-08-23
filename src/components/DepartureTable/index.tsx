@@ -1,11 +1,11 @@
 import { useState } from 'react'
 import { Table, TableBody, TableContainer, Paper } from '@mui/material'
-import DeparturesTableHead from './DepartureTableHead.tsx'
-import DeparturesLoadingRow from './DepartureLoadingRow.tsx'
-import DeparturesEmptyRow from './DepartureEmptyRow.tsx'
-import DepartureRows from './DepartureRows.tsx'
-import type { Row } from './DepartureTypes.tsx'
-import { favKeyOf } from './DepartureKeys.tsx'
+import DeparturesTableHead from './DepartureTableHead'
+import DeparturesLoadingRow from './DepartureLoadingRow'
+import DeparturesEmptyRow from './DepartureEmptyRow'
+import DepartureRows from '../DepartureRow'
+import { Row } from "../DepartureRow/types"
+import { favKeyOf } from './favKeyOf'
 
 export default function DeparturesTable({ loading, rows }: { loading: boolean; rows: Row[] }) {
   const [open, setOpen] = useState<Record<string, boolean>>({})

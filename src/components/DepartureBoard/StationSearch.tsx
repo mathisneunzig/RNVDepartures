@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 import { Autocomplete, TextField } from '@mui/material'
-import stopsData from '../utils/stops.json'
+import stopsData from '../../utils/stops.json'
 
 type Station = {
   name: string
