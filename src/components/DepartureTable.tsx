@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Table, TableBody, TableContainer, Paper } from '@mui/material'
-import DeparturesTableHead from './DeparturesTableHead.tsx'
+import DeparturesTableHead from './DepartureTableHead.tsx'
 import DeparturesLoadingRow from './DepartureLoadingRow.tsx'
 import DeparturesEmptyRow from './DepartureEmptyRow.tsx'
 import DepartureRows from './DepartureRows.tsx'
