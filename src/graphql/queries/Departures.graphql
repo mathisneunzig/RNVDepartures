@@ -2,7 +2,7 @@ query Departures($stationId: String!, $startTime: String!, $first: Int!) {
   station(id: $stationId) {
     hafasID
     longName
-    journeys(startTime: $startTime, first: $first) {
+    journeys(startTime: $startTime, first: $first, timetable: ESTIMATED) {
       elements {
         ... on Journey {
           line {
@@ -10,10 +10,19 @@ query Departures($stationId: String!, $startTime: String!, $first: Int!) {
             lineGroup { id }
             style { primary { hex } }
           }
+					canceled
+					vehicles
           currentStop: stops(onlyHafasID: $stationId) {
             destinationLabel
             plannedDeparture { isoString }
             realtimeDeparture { isoString }
+						pole {
+							platform {
+								id
+								label
+								type
+							}
+						}
           }
           allStops: stops {
 						station {
@@ -22,6 +31,15 @@ query Departures($stationId: String!, $startTime: String!, $first: Int!) {
 						}
             plannedDeparture { isoString }
             realtimeDeparture { isoString }
+            plannedArrival { isoString }
+            realtimeArrival { isoString }
+          }
+          loads(onlyHafasID: $stationId, first: 1) {
+            ratio
+            loadType
+            forecast
+            realtime
+            adjusted
           }
         }
       }
